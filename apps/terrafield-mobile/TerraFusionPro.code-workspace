@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../../../ProgramData/alamode"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}

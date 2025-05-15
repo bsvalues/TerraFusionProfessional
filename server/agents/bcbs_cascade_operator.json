@@ -1,0 +1,254 @@
+{
+  "metadata": {
+    "name": "BCBS Cascade Operator",
+    "version": "1.0.0",
+    "description": "Agent configuration for the BCBS Cascade Operator, which orchestrates interactions between Bootstrap Commander, God-Tier Builder, and TDD Validator agents",
+    "author": "Spatialest Development Team",
+    "created_at": "2025-03-30T12:00:00Z",
+    "updated_at": "2025-03-30T12:00:00Z"
+  },
+  
+  "communication_protocol": {
+    "version": "1.0.0",
+    "format": "JSON",
+    "schema_version": "1.0.0",
+    "message_structure": {
+      "header": {
+        "message_id": "UUID string - Unique identifier for each message",
+        "timestamp": "ISO datetime - When the message was created",
+        "source_agent": "String - ID of the agent sending the message",
+        "target_agent": "String - ID of the intended recipient agent, or 'broadcast' for all agents",
+        "message_type": "String - One of: 'command', 'response', 'event', 'error', 'status'",
+        "priority": "Integer (1-5) - Message priority, where 1 is highest"
+      },
+      "body": {
+        "content": "String or object - The actual message payload",
+        "content_type": "String - Format identifier for the content (e.g., 'model_parameters', 'validation_results')",
+        "references": "Array of message_ids - References to previous related messages"
+      },
+      "status": {
+        "code": "Integer - Status code (200 for success, 4xx for client errors, 5xx for system errors)",
+        "message": "String - Human-readable status message"
+      }
+    },
+    "error_reporting": {
+      "error_codes": {
+        "1000": "General communication error",
+        "1100": "Validation failure",
+        "1200": "Parameter out of range",
+        "1300": "Missing required field",
+        "1400": "Invalid format",
+        "1500": "Timeout",
+        "2000": "Model calibration error",
+        "3000": "Workflow orchestration error"
+      },
+      "error_format": {
+        "code": "Integer - Error code from the defined list",
+        "message": "String - Human-readable error description",
+        "details": "Object - Additional context-specific error details",
+        "timestamp": "ISO datetime - When the error occurred",
+        "severity": "String - One of: 'info', 'warning', 'error', 'critical'",
+        "resolution_steps": "Array of strings - Suggested steps to resolve the issue"
+      }
+    },
+    "versioning": {
+      "model_versioning": {
+        "format": "SemVer - major.minor.patch",
+        "compatibility_map": {
+          "description": "Documents which agent versions are compatible with each other"
+        }
+      },
+      "data_schema_versioning": {
+        "format": "SemVer - major.minor.patch",
+        "migration_path": "String - Reference to schema migration logic if needed"
+      }
+    }
+  },
+  
+  "workflow_orchestration": {
+    "agents": {
+      "bootstrap_commander": {
+        "id": "bc-agent-001",
+        "description": "Initializes model creation process and distributes high-level tasks",
+        "capabilities": ["task_planning", "resource_allocation", "workflow_management"],
+        "input_requirements": [],
+        "output_formats": ["task_plan", "resource_allocation"]
+      },
+      "god_tier_builder": {
+        "id": "gtb-agent-001",
+        "description": "Creates and optimizes statistical models for property valuation",
+        "capabilities": ["model_creation", "parameter_optimization", "feature_selection"],
+        "input_requirements": ["property_data", "model_specifications"],
+        "output_formats": ["calibrated_model", "model_metrics"]
+      },
+      "tdd_validator": {
+        "id": "tdd-agent-001",
+        "description": "Validates model outputs against test criteria and real-world data",
+        "capabilities": ["model_testing", "regression_testing", "validation_reporting"],
+        "input_requirements": ["calibrated_model", "test_dataset"],
+        "output_formats": ["validation_report", "test_results"]
+      }
+    },
+    "workflows": {
+      "model_calibration_workflow": {
+        "description": "End-to-end workflow for creating and validating a new property valuation model",
+        "sequence": [
+          {
+            "step": 1,
+            "name": "initial_planning",
+            "agent": "bootstrap_commander",
+            "action": "create_model_plan",
+            "inputs": ["project_requirements"],
+            "outputs": ["model_plan"],
+            "success_criteria": ["plan_completeness_score > 0.8"]
+          },
+          {
+            "step": 2,
+            "name": "data_preparation",
+            "agent": "bootstrap_commander",
+            "action": "prepare_datasets",
+            "inputs": ["property_data_source", "model_plan"],
+            "outputs": ["training_dataset", "validation_dataset"],
+            "success_criteria": ["dataset_quality_score > 0.85"]
+          },
+          {
+            "step": 3,
+            "name": "model_creation",
+            "agent": "god_tier_builder",
+            "action": "build_valuation_model",
+            "inputs": ["training_dataset", "model_specifications"],
+            "outputs": ["initial_model", "feature_importance"],
+            "success_criteria": ["model_convergence"]
+          },
+          {
+            "step": 4,
+            "name": "parameter_optimization",
+            "agent": "god_tier_builder",
+            "action": "optimize_model_parameters",
+            "inputs": ["initial_model", "training_dataset"],
+            "outputs": ["optimized_model", "optimization_metrics"],
+            "success_criteria": ["r_squared > 0.75", "mean_absolute_error < 5%"]
+          },
+          {
+            "step": 5,
+            "name": "model_validation",
+            "agent": "tdd_validator",
+            "action": "validate_model",
+            "inputs": ["optimized_model", "validation_dataset"],
+            "outputs": ["validation_results", "performance_metrics"],
+            "success_criteria": ["validation_accuracy > 0.8", "no_critical_errors"]
+          },
+          {
+            "step": 6,
+            "name": "finalization",
+            "agent": "bootstrap_commander",
+            "action": "finalize_model",
+            "inputs": ["optimized_model", "validation_results", "feature_importance"],
+            "outputs": ["final_model", "model_documentation"],
+            "success_criteria": ["all_requirements_met", "documentation_complete"]
+          }
+        ],
+        "error_handling": {
+          "retry_logic": {
+            "max_retries": 3,
+            "backoff_factor": 1.5,
+            "timeout_seconds": 300
+          },
+          "fallback_strategy": "Use previous working model version if current calibration fails"
+        }
+      }
+    },
+    "data_sharing": {
+      "model_parameters": {
+        "description": "Structure for sharing model parameters between agents",
+        "format": {
+          "model_type": "String - regression type (linear, random_forest, etc.)",
+          "feature_weights": "Object mapping feature names to their weights/importance",
+          "hyperparameters": "Object containing model-specific hyperparameters",
+          "training_metadata": "Object with information about the training process",
+          "performance_metrics": "Object containing key performance indicators"
+        }
+      },
+      "calibration_data": {
+        "description": "Format for sharing calibration data during the workflow",
+        "format": {
+          "data_source": "String - identifier of the data source",
+          "timestamp": "ISO datetime - When the data was collected",
+          "sample_count": "Integer - Number of samples in the dataset",
+          "feature_names": "Array of strings - Names of features in the dataset",
+          "target_variable": "String - Name of the target variable",
+          "data_quality_metrics": "Object containing data quality measurements"
+        }
+      },
+      "validation_results": {
+        "description": "Structure for validation results shared by TDD Validator",
+        "format": {
+          "test_cases": "Array of test case results",
+          "coverage_metrics": "Object with test coverage information",
+          "performance_metrics": {
+            "r_squared": "Float - R-squared value",
+            "mean_absolute_error": "Float - MAE value",
+            "root_mean_squared_error": "Float - RMSE value",
+            "coefficient_of_variation": "Float - COV value"
+          },
+          "issue_summary": "Array of identified issues or anomalies"
+        }
+      }
+    }
+  },
+  
+  "configuration": {
+    "execution_environment": {
+      "required_services": [
+        "property_data_service",
+        "geospatial_service",
+        "model_storage_service"
+      ],
+      "resource_limits": {
+        "memory_mb": 8192,
+        "cpu_cores": 4,
+        "max_runtime_seconds": 3600
+      },
+      "dependencies": {
+        "libraries": [
+          "tensorflow==2.12.0",
+          "scikit-learn==1.2.2",
+          "pandas==2.0.1",
+          "numpy==1.24.3",
+          "geopandas==0.12.2"
+        ]
+      }
+    },
+    "logging": {
+      "level": "INFO",
+      "destinations": ["file", "console", "monitoring_service"],
+      "rotation": {
+        "max_file_size_mb": 100,
+        "max_files": 10
+      },
+      "format": "{timestamp} [{level}] {agent_id} - {message}"
+    },
+    "security": {
+      "authentication": {
+        "method": "JWT",
+        "token_expiration_seconds": 3600
+      },
+      "authorization": {
+        "role_based_access": true,
+        "required_roles": ["model_builder", "validator", "administrator"]
+      },
+      "data_protection": {
+        "sensitive_fields": ["owner_name", "owner_contact", "exact_coordinates"],
+        "encryption_method": "AES-256"
+      }
+    },
+    "performance_monitoring": {
+      "metrics_collection_interval_seconds": 30,
+      "alerts": {
+        "cpu_threshold_percent": 90,
+        "memory_threshold_percent": 85,
+        "error_rate_threshold": 0.05
+      }
+    }
+  }
+}

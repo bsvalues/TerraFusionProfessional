@@ -1,0 +1,262 @@
+:root {
+  /* Benton County Color Palette */
+  --bc-teal: #1E5B6B;
+  --bc-green: #4AB148;
+  --bc-light-blue: #43B9DB;
+  --bc-gold: #E6A642;
+  --bc-amber: #F5B041;
+  --bc-earth: #7D6608;
+  
+  /* UI Component Colors */
+  --bc-primary: var(--bc-teal);
+  --bc-accent: var(--bc-green);
+  --bc-secondary: var(--bc-light-blue);
+  --bc-background-light: #F9F9F9;
+  --bc-background-warm: #FDF5E6;
+  
+  /* Text Colors */
+  --bc-text-dark: #333333;
+  --bc-text-medium: #666666;
+  --bc-text-light: #999999;
+  
+  /* Border Colors */
+  --bc-border-light: rgba(30, 91, 107, 0.1);
+  --bc-border-medium: rgba(30, 91, 107, 0.2);
+  
+  /* Shadows */
+  --bc-shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.1);
+  --bc-shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1);
+  --bc-shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1);
+  
+  /* Spacing */
+  --bc-spacing-xs: 0.25rem;
+  --bc-spacing-sm: 0.5rem;
+  --bc-spacing-md: 1rem;
+  --bc-spacing-lg: 1.5rem;
+  --bc-spacing-xl: 2rem;
+  --bc-spacing-2xl: 3rem;
+  
+  /* Border Radius */
+  --bc-radius-sm: 4px;
+  --bc-radius-md: 8px;
+  --bc-radius-lg: 12px;
+  --bc-radius-full: 9999px;
+  
+  /* Transition */
+  --bc-transition-fast: 150ms ease;
+  --bc-transition-normal: 250ms ease;
+  --bc-transition-slow: 350ms ease;
+}
+
+/* Button Styles */
+.bc-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--bc-radius-md);
+  font-weight: 500;
+  transition: all var(--bc-transition-normal);
+  cursor: pointer;
+  padding: var(--bc-spacing-sm) var(--bc-spacing-lg);
+}
+
+.bc-btn-primary {
+  background-color: var(--bc-accent);
+  color: white;
+  border: none;
+}
+
+.bc-btn-primary:hover {
+  background-color: #3D9A3C;
+  box-shadow: var(--bc-shadow-sm);
+}
+
+.bc-btn-secondary {
+  background-color: var(--bc-primary);
+  color: white;
+  border: none;
+}
+
+.bc-btn-secondary:hover {
+  background-color: #174956;
+  box-shadow: var(--bc-shadow-sm);
+}
+
+.bc-btn-outline {
+  background-color: transparent;
+  color: var(--bc-primary);
+  border: 1px solid var(--bc-primary);
+}
+
+.bc-btn-outline:hover {
+  background-color: rgba(30, 91, 107, 0.05);
+}
+
+/* Card Styles */
+.bc-card {
+  border-radius: var(--bc-radius-md);
+  box-shadow: var(--bc-shadow-sm);
+  background-color: white;
+  border: 1px solid var(--bc-border-light);
+  overflow: visible;
+}
+
+.bc-card-header {
+  padding: var(--bc-spacing-md);
+  border-bottom: 1px solid var(--bc-border-light);
+  background-color: rgba(30, 91, 107, 0.05);
+}
+
+.bc-card-content {
+  padding: var(--bc-spacing-lg);
+}
+
+.bc-card-footer {
+  padding: var(--bc-spacing-md);
+  border-top: 1px solid var(--bc-border-light);
+  background-color: rgba(30, 91, 107, 0.02);
+}
+
+/* Form Element Styles */
+.bc-input {
+  border-radius: var(--bc-radius-md);
+  border: 1px solid var(--bc-border-medium);
+  padding: var(--bc-spacing-sm) var(--bc-spacing-md);
+  transition: border-color var(--bc-transition-fast);
+}
+
+.bc-input:focus {
+  border-color: var(--bc-primary);
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(30, 91, 107, 0.2);
+}
+
+.bc-label {
+  display: block;
+  margin-bottom: var(--bc-spacing-xs);
+  font-weight: 500;
+  color: var(--bc-text-medium);
+}
+
+/* Section Styles */
+.bc-section {
+  margin-bottom: var(--bc-spacing-2xl);
+}
+
+.bc-section-header {
+  margin-bottom: var(--bc-spacing-lg);
+}
+
+/* Header Styles */
+.bc-page-header {
+  background-color: var(--bc-primary);
+  color: white;
+  padding: var(--bc-spacing-xl) 0;
+  margin-bottom: var(--bc-spacing-xl);
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+  overflow: visible;
+}
+
+.bc-page-header-image {
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+  overflow: visible;
+}
+
+.bc-page-header-image::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(rgba(30, 91, 107, 0.7), rgba(30, 91, 107, 0.85));
+  z-index: 1;
+}
+
+.bc-page-header-content {
+  position: relative;
+  z-index: 2;
+  padding: var(--bc-spacing-xl);
+  width: 100%;
+}
+
+/* Scroll Fixing Styles */
+.bc-page-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  min-height: 100vh;
+  overflow: visible;
+  max-width: 100vw;
+  width: 100%;
+}
+
+.bc-page-content {
+  flex: 1;
+  overflow: visible;
+  padding-bottom: var(--bc-spacing-xl);
+  width: 100%;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+/* Navigation Styles */
+.bc-nav-link {
+  color: var(--bc-text-medium);
+  text-decoration: none;
+  padding: var(--bc-spacing-sm) var(--bc-spacing-md);
+  border-radius: var(--bc-radius-md);
+  transition: background-color var(--bc-transition-fast);
+}
+
+.bc-nav-link:hover {
+  background-color: rgba(30, 91, 107, 0.05);
+  color: var(--bc-primary);
+}
+
+.bc-nav-link-active {
+  background-color: rgba(30, 91, 107, 0.1);
+  color: var(--bc-primary);
+  font-weight: 500;
+}
+
+/* Typography */
+.bc-heading-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: var(--bc-spacing-md);
+  color: var(--bc-text-dark);
+}
+
+.bc-heading-2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: var(--bc-spacing-md);
+  color: var(--bc-text-dark);
+}
+
+.bc-heading-3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: var(--bc-spacing-sm);
+  color: var(--bc-text-dark);
+}
+
+.bc-text {
+  color: var(--bc-text-medium);
+  line-height: 1.6;
+}
+
+.bc-text-sm {
+  font-size: 0.875rem;
+}
+
+.bc-text-lg {
+  font-size: 1.125rem;
+}

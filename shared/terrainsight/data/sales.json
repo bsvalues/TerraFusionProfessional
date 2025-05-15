@@ -1,0 +1,2031 @@
+[
+  {
+    "propertyId": "10007",
+    "sales": [
+      {
+        "date": "1997-10-28",
+        "price": 72465,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10008",
+    "sales": [
+      {
+        "date": "2006-04-18",
+        "price": 660000,
+        "deedType": "WD",
+        "buyer": "SANCHEZ CUSTODIO & VICKIE L",
+        "exciseNumber": null
+      },
+      {
+        "date": "1970-04-15",
+        "price": 14000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10009",
+    "sales": []
+  },
+  {
+    "propertyId": "10010",
+    "sales": []
+  },
+  {
+    "propertyId": "10011",
+    "sales": []
+  },
+  {
+    "propertyId": "10012",
+    "sales": []
+  },
+  {
+    "propertyId": "10013",
+    "sales": []
+  },
+  {
+    "propertyId": "10014",
+    "sales": []
+  },
+  {
+    "propertyId": "10015",
+    "sales": [
+      {
+        "date": "2018-08-27",
+        "price": 170782295,
+        "deedType": "SPWD",
+        "buyer": null,
+        "exciseNumber": "137458"
+      },
+      {
+        "date": "2010-05-13",
+        "price": 75000000,
+        "deedType": "SPWD",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1992-12-23",
+        "price": 508497,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1981-11-12",
+        "price": 195000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1974-04-03",
+        "price": 8960,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1971-01-22",
+        "price": 1730,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10019",
+    "sales": []
+  },
+  {
+    "propertyId": "10021",
+    "sales": []
+  },
+  {
+    "propertyId": "10022",
+    "sales": [
+      {
+        "date": "1998-03-17",
+        "price": 305,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10025",
+    "sales": [
+      {
+        "date": "1967-05-04",
+        "price": 12800,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10027",
+    "sales": []
+  },
+  {
+    "propertyId": "10028",
+    "sales": [
+      {
+        "date": "1975-05-14",
+        "price": 2000890,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10029",
+    "sales": []
+  },
+  {
+    "propertyId": "10030",
+    "sales": []
+  },
+  {
+    "propertyId": "10031",
+    "sales": [
+      {
+        "date": "2021-07-30",
+        "price": 62113833,
+        "deedType": "QCD",
+        "buyer": "FARMLAND RESERVE INC",
+        "exciseNumber": "162065"
+      },
+      {
+        "date": "1975-05-29",
+        "price": 2968000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10032",
+    "sales": [
+      {
+        "date": "2021-07-30",
+        "price": 62113833,
+        "deedType": "QCD",
+        "buyer": "FARMLAND RESERVE INC",
+        "exciseNumber": "162065"
+      }
+    ]
+  },
+  {
+    "propertyId": "10033",
+    "sales": []
+  },
+  {
+    "propertyId": "10034",
+    "sales": [
+      {
+        "date": "1969-11-05",
+        "price": 85340,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10035",
+    "sales": []
+  },
+  {
+    "propertyId": "10036",
+    "sales": [
+      {
+        "date": "1975-02-24",
+        "price": 166,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10037",
+    "sales": [
+      {
+        "date": "1999-12-15",
+        "price": 458000,
+        "deedType": "HDeed",
+        "buyer": "BERG FRANK",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10038",
+    "sales": []
+  },
+  {
+    "propertyId": "10039",
+    "sales": []
+  },
+  {
+    "propertyId": "10040",
+    "sales": [
+      {
+        "date": "1975-05-14",
+        "price": 3087100,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10041",
+    "sales": [
+      {
+        "date": "1967-04-17",
+        "price": 63500,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10042",
+    "sales": []
+  },
+  {
+    "propertyId": "10043",
+    "sales": [
+      {
+        "date": "1991-07-03",
+        "price": 2500,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1900-01-01",
+        "price": 700,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10044",
+    "sales": [
+      {
+        "date": "2021-07-30",
+        "price": 17112180,
+        "deedType": "QCD",
+        "buyer": "EASTERDAY FARMS",
+        "exciseNumber": "162044"
+      },
+      {
+        "date": "2021-07-30",
+        "price": 53214157,
+        "deedType": "QCD",
+        "buyer": "FARMLAND RESERVE INC",
+        "exciseNumber": "162060"
+      }
+    ]
+  },
+  {
+    "propertyId": "10045",
+    "sales": [
+      {
+        "date": "1987-10-16",
+        "price": 8257,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10046",
+    "sales": [
+      {
+        "date": "1975-12-16",
+        "price": 11000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10047",
+    "sales": [
+      {
+        "date": "1975-12-16",
+        "price": 10000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10048",
+    "sales": [
+      {
+        "date": "2021-10-13",
+        "price": 777500,
+        "deedType": "SWD",
+        "buyer": "PINTO ERICK ALEXANDER CERNAS & GONZALEZ TORRES LOURDES ALONDRA",
+        "exciseNumber": "164083"
+      },
+      {
+        "date": "1975-12-16",
+        "price": 10000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10049",
+    "sales": []
+  },
+  {
+    "propertyId": "10050",
+    "sales": [
+      {
+        "date": "1997-05-05",
+        "price": 328037,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1976-10-18",
+        "price": 260000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1975-11-12",
+        "price": 123000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10051",
+    "sales": [
+      {
+        "date": "1997-05-05",
+        "price": 60000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10052",
+    "sales": [
+      {
+        "date": "2014-05-23",
+        "price": 122500,
+        "deedType": "SWD",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "2007-03-01",
+        "price": 130000,
+        "deedType": "RC",
+        "buyer": "VOSS GARY L",
+        "exciseNumber": null
+      },
+      {
+        "date": "1993-12-01",
+        "price": 50000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10053",
+    "sales": [
+      {
+        "date": "2018-02-15",
+        "price": 211750,
+        "deedType": "SWD",
+        "buyer": "J & S ORCHARDS LLC",
+        "exciseNumber": "133349"
+      }
+    ]
+  },
+  {
+    "propertyId": "10054",
+    "sales": [
+      {
+        "date": "1988-09-02",
+        "price": 79591,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10055",
+    "sales": [
+      {
+        "date": "1994-09-08",
+        "price": 63000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1989-06-29",
+        "price": 55000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10056",
+    "sales": []
+  },
+  {
+    "propertyId": "10057",
+    "sales": [
+      {
+        "date": "1997-12-22",
+        "price": 143409,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10058",
+    "sales": [
+      {
+        "date": "1997-12-22",
+        "price": 143641,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10059",
+    "sales": []
+  },
+  {
+    "propertyId": "10060",
+    "sales": []
+  },
+  {
+    "propertyId": "10061",
+    "sales": []
+  },
+  {
+    "propertyId": "10062",
+    "sales": [
+      {
+        "date": "2003-09-15",
+        "price": 275000,
+        "deedType": "RC",
+        "buyer": "PORT OF BENTON",
+        "exciseNumber": null
+      },
+      {
+        "date": "1985-01-28",
+        "price": 6068,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1968-08-29",
+        "price": 11500,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1964-08-31",
+        "price": 12000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10063",
+    "sales": []
+  },
+  {
+    "propertyId": "10064",
+    "sales": [
+      {
+        "date": "2020-07-27",
+        "price": 295000,
+        "deedType": "SPWD",
+        "buyer": "BARRIOS HERIBERTO VIDALES & ORTIZ MICHELLE",
+        "exciseNumber": "152768"
+      },
+      {
+        "date": "2018-10-25",
+        "price": 189675,
+        "deedType": "TRD",
+        "buyer": "WILMINGTON SAVINGS FUND SOCIETY",
+        "exciseNumber": "139048"
+      },
+      {
+        "date": "2018-09-04",
+        "price": 189675,
+        "deedType": "TRD",
+        "buyer": "WILMINGTON SAVINGS FUND SOCIETY",
+        "exciseNumber": "138018"
+      },
+      {
+        "date": "1994-12-13",
+        "price": 65000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1985-11-22",
+        "price": 60000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1975-12-05",
+        "price": 25000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10065",
+    "sales": [
+      {
+        "date": "1994-11-17",
+        "price": 930000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1991-06-28",
+        "price": 450000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1991-04-05",
+        "price": 415548,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1986-12-31",
+        "price": 510744,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1981-04-06",
+        "price": 1100000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1976-05-28",
+        "price": 10000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1975-12-05",
+        "price": 125000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10066",
+    "sales": [
+      {
+        "date": "1994-11-23",
+        "price": 50000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1993-08-02",
+        "price": 35000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1978-08-28",
+        "price": 43000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1977-07-28",
+        "price": 38000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1976-03-16",
+        "price": 41000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10067",
+    "sales": [
+      {
+        "date": "2016-10-27",
+        "price": 1350000,
+        "deedType": "SWD",
+        "buyer": "KKSC VENTURES LLC",
+        "exciseNumber": null
+      },
+      {
+        "date": "2004-05-07",
+        "price": 490000,
+        "deedType": "SWD",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "2000-02-24",
+        "price": 480000,
+        "deedType": "HDeed",
+        "buyer": "PARK MIOK",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10068",
+    "sales": [
+      {
+        "date": "1978-06-08",
+        "price": 7100,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10069",
+    "sales": [
+      {
+        "date": "2005-12-21",
+        "price": 235000,
+        "deedType": "SWD",
+        "buyer": "PROSSER MEMORIAL HOSPITAL ASSNA",
+        "exciseNumber": null
+      },
+      {
+        "date": "1995-03-31",
+        "price": 163500,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1990-07-24",
+        "price": 105000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1979-02-06",
+        "price": 59100,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1978-06-08",
+        "price": 7100,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10070",
+    "sales": [
+      {
+        "date": "1978-06-09",
+        "price": 35000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10071",
+    "sales": [
+      {
+        "date": "1999-01-15",
+        "price": 12990,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1986-08-19",
+        "price": 9553,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1979-04-02",
+        "price": 250000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10072",
+    "sales": [
+      {
+        "date": "1994-12-06",
+        "price": 20462,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1981-06-23",
+        "price": 51000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10073",
+    "sales": [
+      {
+        "date": "1994-12-06",
+        "price": 99537,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1981-06-23",
+        "price": 51000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10075",
+    "sales": [
+      {
+        "date": "1988-02-09",
+        "price": 12768,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1980-07-11",
+        "price": 40900,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10076",
+    "sales": [
+      {
+        "date": "1990-04-19",
+        "price": 50250,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1982-09-28",
+        "price": 47500,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1979-04-02",
+        "price": 250000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10077",
+    "sales": [
+      {
+        "date": "1999-01-15",
+        "price": 27536,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1986-08-19",
+        "price": 21300,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1979-04-02",
+        "price": 250000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10078",
+    "sales": [
+      {
+        "date": "1999-01-15",
+        "price": 31597,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1986-08-19",
+        "price": 18291,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1979-04-02",
+        "price": 250000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10079",
+    "sales": [
+      {
+        "date": "1999-01-15",
+        "price": 43031,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1986-08-19",
+        "price": 34873,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1979-04-02",
+        "price": 250000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10080",
+    "sales": [
+      {
+        "date": "2006-10-18",
+        "price": 112500,
+        "deedType": "SWD",
+        "buyer": "BYERS LARRY",
+        "exciseNumber": null
+      },
+      {
+        "date": "1976-06-14",
+        "price": 23000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1966-09-20",
+        "price": 15000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1953-04-03",
+        "price": 7800,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10081",
+    "sales": [
+      {
+        "date": "2008-06-24",
+        "price": 136500,
+        "deedType": "SWD",
+        "buyer": "WILSON DONALD E & MILDRED M",
+        "exciseNumber": null
+      },
+      {
+        "date": "2006-10-17",
+        "price": 119500,
+        "deedType": "SWD",
+        "buyer": "WELD RYAN W",
+        "exciseNumber": null
+      },
+      {
+        "date": "1994-05-11",
+        "price": 15000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1976-06-14",
+        "price": 23000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1966-09-20",
+        "price": 15000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1953-04-03",
+        "price": 7800,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10082",
+    "sales": [
+      {
+        "date": "2023-04-27",
+        "price": 405000,
+        "deedType": "SWD",
+        "buyer": "LEAVERTON MICHAEL R & BARBARA C",
+        "exciseNumber": "175745"
+      },
+      {
+        "date": "2018-02-22",
+        "price": 289900,
+        "deedType": "SWD",
+        "buyer": "SCOTT JR DARRELL & CHRISTINA Q",
+        "exciseNumber": "133155"
+      },
+      {
+        "date": "2014-10-24",
+        "price": 207000,
+        "deedType": "SWD",
+        "buyer": "WHITNEY AMANDA C",
+        "exciseNumber": null
+      },
+      {
+        "date": "2006-08-29",
+        "price": 218000,
+        "deedType": "SWD",
+        "buyer": "WEBBERLY DAIVD W & VICTORIA A",
+        "exciseNumber": null
+      },
+      {
+        "date": "2004-07-24",
+        "price": 200000,
+        "deedType": "SWD",
+        "buyer": "WILSON SANDRA R",
+        "exciseNumber": null
+      },
+      {
+        "date": "2003-07-08",
+        "price": 184000,
+        "deedType": "SWD",
+        "buyer": "DAVISON M LYNN",
+        "exciseNumber": null
+      },
+      {
+        "date": "2002-08-06",
+        "price": 19300,
+        "deedType": "SWD",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1998-12-31",
+        "price": 20326,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10083",
+    "sales": [
+      {
+        "date": "1999-09-21",
+        "price": 124000,
+        "deedType": "HDeed",
+        "buyer": "TINKER LLOYD W & NORMA J",
+        "exciseNumber": null
+      },
+      {
+        "date": "1998-12-31",
+        "price": 14673,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10085",
+    "sales": [
+      {
+        "date": "2025-01-15",
+        "price": 850000,
+        "deedType": "SWD",
+        "buyer": "DORSETT GREGORY & ANGELA M",
+        "exciseNumber": "186490"
+      },
+      {
+        "date": "2020-02-21",
+        "price": 700000,
+        "deedType": "SWD",
+        "buyer": "LEGACY CRE LLC",
+        "exciseNumber": "149210"
+      },
+      {
+        "date": "1989-08-08",
+        "price": 21357,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1984-03-27",
+        "price": 52500,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1979-04-04",
+        "price": 42000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1961-11-01",
+        "price": 10675,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10089",
+    "sales": [
+      {
+        "date": "2015-10-07",
+        "price": 224000,
+        "deedType": "SWD",
+        "buyer": "WILLIAMS AARON & JANELLE",
+        "exciseNumber": null
+      },
+      {
+        "date": "2009-12-22",
+        "price": 187500,
+        "deedType": "SWD",
+        "buyer": "MCMULLEN CLINTON V & BARBARA L",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10090",
+    "sales": [
+      {
+        "date": "2021-09-03",
+        "price": 300000,
+        "deedType": "SWD",
+        "buyer": "RODRIGUEZ HERNANDEZ ALEXIS",
+        "exciseNumber": "163048"
+      },
+      {
+        "date": "2021-05-03",
+        "price": 190000,
+        "deedType": "SWD",
+        "buyer": "TRI CONSTRUCTION LLC",
+        "exciseNumber": "159448"
+      },
+      {
+        "date": "2011-11-03",
+        "price": 144400,
+        "deedType": "SWD",
+        "buyer": "OLSON BRUCE M",
+        "exciseNumber": null
+      },
+      {
+        "date": "2011-11-03",
+        "price": 144400,
+        "deedType": "SWD",
+        "buyer": "OLSON BRUCE M",
+        "exciseNumber": null
+      },
+      {
+        "date": "2005-08-30",
+        "price": 108000,
+        "deedType": "SWD",
+        "buyer": "YOUNG GREGORY R",
+        "exciseNumber": null
+      },
+      {
+        "date": "1999-06-03",
+        "price": 101000,
+        "deedType": "HDeed",
+        "buyer": "KENYON MICHAEL P",
+        "exciseNumber": null
+      },
+      {
+        "date": "1993-09-09",
+        "price": 80000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1984-11-01",
+        "price": 34000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1976-02-02",
+        "price": 14500,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1973-07-30",
+        "price": 11000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10091",
+    "sales": [
+      {
+        "date": "2002-03-26",
+        "price": 69000,
+        "deedType": "HDeed",
+        "buyer": "MENDOZA JESUS & MARTINA",
+        "exciseNumber": null
+      },
+      {
+        "date": "1982-08-26",
+        "price": 20000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1978-07-17",
+        "price": 3000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1958-07-11",
+        "price": 550,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10092",
+    "sales": [
+      {
+        "date": "2005-11-03",
+        "price": 130000,
+        "deedType": "HDeed",
+        "buyer": "Deangelo, Jonathan & Millea",
+        "exciseNumber": null
+      },
+      {
+        "date": "2005-11-03",
+        "price": 130000,
+        "deedType": "SWD",
+        "buyer": "COX JR JONATHAN N",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10093",
+    "sales": [
+      {
+        "date": "2018-04-25",
+        "price": 100000,
+        "deedType": "SWD",
+        "buyer": "FUNK MICHAEL & TERESA",
+        "exciseNumber": "134654"
+      },
+      {
+        "date": "1973-02-21",
+        "price": 20500,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1959-10-21",
+        "price": 12000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1957-03-05",
+        "price": 10000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10094",
+    "sales": [
+      {
+        "date": "2017-11-07",
+        "price": 160000,
+        "deedType": "SWD",
+        "buyer": "CARRILLO J JESUS S & CRISTINA",
+        "exciseNumber": "131172"
+      },
+      {
+        "date": "2014-08-12",
+        "price": 118500,
+        "deedType": "SWD",
+        "buyer": "LENZ BYRON A",
+        "exciseNumber": null
+      },
+      {
+        "date": "2009-08-20",
+        "price": 98000,
+        "deedType": "SWD",
+        "buyer": "PETROSS WILLIAM CHARLES",
+        "exciseNumber": null
+      },
+      {
+        "date": "2003-06-30",
+        "price": 80000,
+        "deedType": "SWD",
+        "buyer": "KING PATRICIA A",
+        "exciseNumber": null
+      },
+      {
+        "date": "1994-11-02",
+        "price": 30000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1989-12-18",
+        "price": 27400,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1984-01-01",
+        "price": 42500,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1973-06-04",
+        "price": 14700,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1955-06-16",
+        "price": 11000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10095",
+    "sales": [
+      {
+        "date": "2021-09-24",
+        "price": 360250,
+        "deedType": "SWD",
+        "buyer": "KARTHAUSER TRUSTEES COLLIN JOHN & ABIAH FOLGER",
+        "exciseNumber": "163666"
+      },
+      {
+        "date": "2019-01-29",
+        "price": 218000,
+        "deedType": "SWD",
+        "buyer": "LANDA SELENA L & SWEARINGEN MICHELLE",
+        "exciseNumber": "140620"
+      },
+      {
+        "date": "2016-12-22",
+        "price": 195000,
+        "deedType": "SWD",
+        "buyer": "BENJERT ALEXANDER J",
+        "exciseNumber": "124639"
+      },
+      {
+        "date": "2003-12-15",
+        "price": 117500,
+        "deedType": "SWD",
+        "buyer": "JOHNSTON LARRY S & ANGELA G",
+        "exciseNumber": null
+      },
+      {
+        "date": "1998-09-17",
+        "price": 89500,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1969-08-08",
+        "price": 19900,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1969-02-25",
+        "price": 1600,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10096",
+    "sales": [
+      {
+        "date": "2022-10-04",
+        "price": 307700,
+        "deedType": "SWD",
+        "buyer": "THIEMANN NICHOLAS JAY & ASHLEA JORDAN",
+        "exciseNumber": "172839"
+      },
+      {
+        "date": "1966-09-06",
+        "price": 10500,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1964-12-09",
+        "price": 10500,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10097",
+    "sales": [
+      {
+        "date": "2010-04-06",
+        "price": 104000,
+        "deedType": "SWD",
+        "buyer": "EDWARDS MARSHALL & RHONDA",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10098",
+    "sales": [
+      {
+        "date": "1994-07-19",
+        "price": 108000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1989-09-08",
+        "price": 39000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1989-01-25",
+        "price": 49567,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1973-09-19",
+        "price": 22000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1971-09-29",
+        "price": 18150,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1969-03-03",
+        "price": 16000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10099",
+    "sales": [
+      {
+        "date": "2015-05-22",
+        "price": 150000,
+        "deedType": "SWD",
+        "buyer": "CRUZ MARIA",
+        "exciseNumber": null
+      },
+      {
+        "date": "2007-12-10",
+        "price": 120000,
+        "deedType": "SWD",
+        "buyer": "CAREY JUSTIN L & ANGELA M",
+        "exciseNumber": null
+      },
+      {
+        "date": "1955-09-15",
+        "price": 10000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1952-10-14",
+        "price": 6400,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10100",
+    "sales": [
+      {
+        "date": "2014-02-03",
+        "price": 102000,
+        "deedType": "RC",
+        "buyer": "HANSON LARS & AMBER",
+        "exciseNumber": null
+      },
+      {
+        "date": "2013-05-10",
+        "price": 63751,
+        "deedType": "TRD",
+        "buyer": "POLITTE DAN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1998-01-28",
+        "price": 11267,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1992-03-09",
+        "price": 50000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1979-02-09",
+        "price": 39900,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1977-08-15",
+        "price": 31500,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1977-01-14",
+        "price": 23500,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1969-09-16",
+        "price": 16800,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10101",
+    "sales": [
+      {
+        "date": "2013-03-06",
+        "price": 123000,
+        "deedType": "ODEED",
+        "buyer": "LITTLE MARK W & CINDY",
+        "exciseNumber": null
+      },
+      {
+        "date": "2012-10-15",
+        "price": 136951,
+        "deedType": "TRD",
+        "buyer": "FEDERAL NATIONAL MORTGAGE ASSOCA",
+        "exciseNumber": null
+      },
+      {
+        "date": "2006-08-02",
+        "price": 102000,
+        "deedType": "SWD",
+        "buyer": "ALVAREZ ROSA E",
+        "exciseNumber": null
+      },
+      {
+        "date": "1969-10-01",
+        "price": 17400,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10102",
+    "sales": [
+      {
+        "date": "1995-06-19",
+        "price": 54000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1974-09-16",
+        "price": 12000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1960-09-02",
+        "price": 10675,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1958-08-15",
+        "price": 10500,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1951-12-14",
+        "price": 1150,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10103",
+    "sales": [
+      {
+        "date": "2023-07-25",
+        "price": 393000,
+        "deedType": "SWD",
+        "buyer": "JONES BRADLEY & KRISTA",
+        "exciseNumber": "177256"
+      },
+      {
+        "date": "2019-04-15",
+        "price": 240000,
+        "deedType": "SWD",
+        "buyer": "PEDROZA JALISA MARIE & MIGUEL ANGEL",
+        "exciseNumber": "142518"
+      },
+      {
+        "date": "1973-08-20",
+        "price": 32000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1956-11-27",
+        "price": 16900,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10104",
+    "sales": [
+      {
+        "date": "2002-06-28",
+        "price": 105000,
+        "deedType": "SWD",
+        "buyer": "SMITH CHAD L",
+        "exciseNumber": null
+      },
+      {
+        "date": "1976-07-19",
+        "price": 39900,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1968-06-10",
+        "price": 18000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1966-08-10",
+        "price": 18000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1956-11-02",
+        "price": 15125,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1950-11-27",
+        "price": 1300,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10105",
+    "sales": [
+      {
+        "date": "2022-01-20",
+        "price": 293000,
+        "deedType": "SWD",
+        "buyer": "MADRIGAL YESSICA LARA",
+        "exciseNumber": "166383"
+      },
+      {
+        "date": "2017-10-30",
+        "price": 133000,
+        "deedType": "SWD",
+        "buyer": "GARZA DOMINIC N & KARISSA N",
+        "exciseNumber": "130975"
+      },
+      {
+        "date": "2016-05-13",
+        "price": 85000,
+        "deedType": "SPWD",
+        "buyer": "FLORES PABLO JR & MARILU",
+        "exciseNumber": null
+      },
+      {
+        "date": "2016-01-05",
+        "price": 106200,
+        "deedType": "TRD",
+        "buyer": "FEDERAL NATIONAL MORTGAGE ASSOCIATIO",
+        "exciseNumber": null
+      },
+      {
+        "date": "2004-11-30",
+        "price": 102000,
+        "deedType": "SWD",
+        "buyer": "FAYARD BRANDON R & TAMMY J",
+        "exciseNumber": null
+      },
+      {
+        "date": "1992-08-20",
+        "price": 53000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1963-01-04",
+        "price": 12500,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1955-08-17",
+        "price": 10000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1952-06-03",
+        "price": 12000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10106",
+    "sales": [
+      {
+        "date": "2025-02-05",
+        "price": 305000,
+        "deedType": "SWD",
+        "buyer": "THOMAS JEREMY ALAN & ERIN MICHELLE",
+        "exciseNumber": "186801"
+      },
+      {
+        "date": "2006-05-19",
+        "price": 115000,
+        "deedType": "SWD",
+        "buyer": "PENDLETON MICHAEL A & JOYCE L",
+        "exciseNumber": null
+      },
+      {
+        "date": "2001-01-24",
+        "price": 80000,
+        "deedType": "HDeed",
+        "buyer": "LATHEN LAURIE A",
+        "exciseNumber": null
+      },
+      {
+        "date": "2000-10-06",
+        "price": 76674,
+        "deedType": "HDeed",
+        "buyer": "SECRETARY  OF VETERANS AFFAIRSA",
+        "exciseNumber": null
+      },
+      {
+        "date": "2000-10-06",
+        "price": 76674,
+        "deedType": "HDeed",
+        "buyer": "SECRETARY  OF VETERANS AFFAIRSA",
+        "exciseNumber": null
+      },
+      {
+        "date": "1997-10-16",
+        "price": 93000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1955-08-22",
+        "price": 15000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1951-08-22",
+        "price": 1300,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10107",
+    "sales": [
+      {
+        "date": "1981-08-27",
+        "price": 56000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1955-05-12",
+        "price": 7062,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10108",
+    "sales": [
+      {
+        "date": "2023-10-26",
+        "price": 305000,
+        "deedType": "SWD",
+        "buyer": "STUMPF DEVYN & GOOCH MADDISON",
+        "exciseNumber": "178970"
+      },
+      {
+        "date": "2023-03-22",
+        "price": 178735,
+        "deedType": "SWD",
+        "buyer": "TRI CONSTRUCTION LLC",
+        "exciseNumber": "174943"
+      },
+      {
+        "date": "1986-07-22",
+        "price": 47000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1984-04-30",
+        "price": 42000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1975-10-30",
+        "price": 13500,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10109",
+    "sales": [
+      {
+        "date": "2018-07-10",
+        "price": 145000,
+        "deedType": "SWD",
+        "buyer": "ACOSTA FRANCES E",
+        "exciseNumber": "136390"
+      },
+      {
+        "date": "2003-11-06",
+        "price": 80000,
+        "deedType": "SWD",
+        "buyer": "BOYER RICHARD",
+        "exciseNumber": null
+      },
+      {
+        "date": "1959-02-27",
+        "price": 4000,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      },
+      {
+        "date": "1958-06-18",
+        "price": 4600,
+        "deedType": "HDeed",
+        "buyer": "UNKNOWN",
+        "exciseNumber": null
+      }
+    ]
+  }
+]

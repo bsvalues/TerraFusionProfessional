@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@neondatabase/serverless": "^0.7.2",
+    "drizzle-orm": "^0.29.3",
+    "postgres": "^3.4.3",
+    "dotenv": "^16.3.1",
+    "ws": "^8.15.1"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.20.13",
+    "@types/pg": "^8.10.9",
+    "@types/ws": "^8.5.10",
+    "tsx": "^4.7.0"
+  },
+  "scripts": {
+    "db:generate": "drizzle-kit generate:pg",
+    "db:migrate": "tsx ./utils/db-migrate.ts",
+    "db:seed": "tsx ../devops/db/sample-data.ts",
+    "db:studio": "drizzle-kit studio",
+    "db:setup": "npm run db:migrate && npm run db:seed"
+  }
+}

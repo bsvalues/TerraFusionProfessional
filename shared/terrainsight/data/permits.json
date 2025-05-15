@@ -1,0 +1,6857 @@
+[
+  {
+    "propertyId": "320566",
+    "permits": [
+      {
+        "permitId": "96462",
+        "permitNumber": "BLDRC-2025-00527",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-04",
+        "value": 921000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320538",
+    "permits": [
+      {
+        "permitId": "96461",
+        "permitNumber": "BLDRC-2025-00528",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-04",
+        "value": 920000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319531",
+    "permits": [
+      {
+        "permitId": "96452",
+        "permitNumber": "BLDRC-2025-00422",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-04",
+        "value": 283325,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96442",
+        "permitNumber": "BLDRC-2025-00422",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-04",
+        "value": 283325,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319530",
+    "permits": [
+      {
+        "permitId": "96443",
+        "permitNumber": "BLDRC-2025-00466",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-04",
+        "value": 285546,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317066",
+    "permits": [
+      {
+        "permitId": "96460",
+        "permitNumber": "BLDRC-2025-00526",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-04",
+        "value": 650000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "311815",
+    "permits": [
+      {
+        "permitId": "96440",
+        "permitNumber": "BLDCC-2025-00114",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-04",
+        "value": 75000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "15564",
+    "permits": [
+      {
+        "permitId": "96441",
+        "permitNumber": "BLDRC-2025-00504",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-04",
+        "value": 103170,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319545",
+    "permits": [
+      {
+        "permitId": "96444",
+        "permitNumber": "BLDRC-2025-00482",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-04",
+        "value": 286589,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320420",
+    "permits": [
+      {
+        "permitId": "96459",
+        "permitNumber": "BLDRC-2025-00525",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-04",
+        "value": 295102,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "318215",
+    "permits": [
+      {
+        "permitId": "96193",
+        "permitNumber": "x",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-04",
+        "value": 0,
+        "status": "Active",
+        "comments": "check on progress"
+      }
+    ]
+  },
+  {
+    "propertyId": "317790",
+    "permits": [
+      {
+        "permitId": "96451",
+        "permitNumber": "BLDRC-2025-00454",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-03",
+        "value": 429638,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96439",
+        "permitNumber": "BLDRC-2025-00454",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-03",
+        "value": 429638,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "44869",
+    "permits": [
+      {
+        "permitId": "96437",
+        "permitNumber": "BLDCC-2025-00145",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-03",
+        "value": 27896,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "61771",
+    "permits": [
+      {
+        "permitId": "96438",
+        "permitNumber": "BLDRC-2025-00471",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-03",
+        "value": 82236,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "46587",
+    "permits": [
+      {
+        "permitId": "96463",
+        "permitNumber": "BLDR-000155-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-02",
+        "value": 30000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319466",
+    "permits": [
+      {
+        "permitId": "96430",
+        "permitNumber": "BLDRC-2025-00502",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-02",
+        "value": 349010,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96450",
+        "permitNumber": "BLDRC-2025-00502",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-02",
+        "value": 349010,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317789",
+    "permits": [
+      {
+        "permitId": "96458",
+        "permitNumber": "BLDRC-2025-00524",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-02",
+        "value": 409416,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "91086",
+    "permits": [
+      {
+        "permitId": "96429",
+        "permitNumber": "BLDMISC-2025-01046",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-02",
+        "value": 17281,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320444",
+    "permits": [
+      {
+        "permitId": "96457",
+        "permitNumber": "BLDRC-2025-00523",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-02",
+        "value": 298527,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320253",
+    "permits": [
+      {
+        "permitId": "96448",
+        "permitNumber": "BLDRC-2025-00476",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-01",
+        "value": 396942,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96427",
+        "permitNumber": "BLDRC-2025-00476",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-01",
+        "value": 396942,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "52502",
+    "permits": [
+      {
+        "permitId": "96464",
+        "permitNumber": "BLDR-000164-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-01",
+        "value": 7000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320532",
+    "permits": [
+      {
+        "permitId": "96453",
+        "permitNumber": "BLDCC-2025-00155",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-01",
+        "value": 1257890,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319071",
+    "permits": [
+      {
+        "permitId": "96456",
+        "permitNumber": "BLDRC-2025-00521",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-01",
+        "value": 447802,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "278265",
+    "permits": [
+      {
+        "permitId": "96446",
+        "permitNumber": "BLDCC-2025-00126",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-01",
+        "value": 334336,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96425",
+        "permitNumber": "BLDCC-2025-00126",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-01",
+        "value": 334336,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320278",
+    "permits": [
+      {
+        "permitId": "96424",
+        "permitNumber": "BLDRC-2025-00481",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-01",
+        "value": 218982,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96449",
+        "permitNumber": "BLDRC-2025-00481",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-01",
+        "value": 218982,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "91078",
+    "permits": [
+      {
+        "permitId": "96421",
+        "permitNumber": "BLDMISC-2025-01065",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-01",
+        "value": 21833,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "318135",
+    "permits": [
+      {
+        "permitId": "96422",
+        "permitNumber": "BLDRC-2025-00495",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-04-01",
+        "value": 75000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "64646",
+    "permits": [
+      {
+        "permitId": "96416",
+        "permitNumber": "BLDRC-2025-00511",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 4000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320049",
+    "permits": [
+      {
+        "permitId": "96499",
+        "permitNumber": "DPW-2025-0547",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96494",
+        "permitNumber": "BLDR-2025-0498",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 267700,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "58610",
+    "permits": [
+      {
+        "permitId": "96445",
+        "permitNumber": "BLDCC-2025-00127",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 602447,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96419",
+        "permitNumber": "BLDCC-2025-00127",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 602447,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319541",
+    "permits": [
+      {
+        "permitId": "96418",
+        "permitNumber": "BLDRC-2025-00414",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 282132,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96447",
+        "permitNumber": "BLDRC-2025-00414",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 282132,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320445",
+    "permits": [
+      {
+        "permitId": "96455",
+        "permitNumber": "BLDRC-2025-00520",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 338724,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "274435",
+    "permits": [
+      {
+        "permitId": "96495",
+        "permitNumber": "MECR-2025-0791",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 17166,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "55090",
+    "permits": [
+      {
+        "permitId": "96415",
+        "permitNumber": "BLDCC-2025-00138",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 2500,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320294",
+    "permits": [
+      {
+        "permitId": "96503",
+        "permitNumber": "BLDR-2025-0799",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 284886,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96502",
+        "permitNumber": "DPW-2025-0802",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320043",
+    "permits": [
+      {
+        "permitId": "96498",
+        "permitNumber": "DPW-2025-0546",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96496",
+        "permitNumber": "BLDR-2025-0497",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 343168,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320369",
+    "permits": [
+      {
+        "permitId": "96501",
+        "permitNumber": "BLDR-2025-0798",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 439683,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96500",
+        "permitNumber": "DPW-2025-0801",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "30297",
+    "permits": [
+      {
+        "permitId": "96497",
+        "permitNumber": "PLBR-2024-3115",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 2500,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "18833",
+    "permits": [
+      {
+        "permitId": "96417",
+        "permitNumber": "BLDMISC-2025-01061",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 18000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "60611",
+    "permits": [
+      {
+        "permitId": "96504",
+        "permitNumber": "BLDC-2025-0819",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 22500,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "60754",
+    "permits": [
+      {
+        "permitId": "96509",
+        "permitNumber": "BLDR-2025-0830",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 10795,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320530",
+    "permits": [
+      {
+        "permitId": "96508",
+        "permitNumber": "BLDC-2025-0805",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 7805093,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "32107",
+    "permits": [
+      {
+        "permitId": "96507",
+        "permitNumber": "MECR-2025-0826",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 14991,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "47515",
+    "permits": [
+      {
+        "permitId": "96302",
+        "permitNumber": "20250141",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 107,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "62530",
+    "permits": [
+      {
+        "permitId": "96510",
+        "permitNumber": "BLDC-2025-0821",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 30000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "300507",
+    "permits": [
+      {
+        "permitId": "96526",
+        "permitNumber": "25-03-26-003",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 75,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96519",
+        "permitNumber": "25-03-03-004",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 2194,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96522",
+        "permitNumber": "25-03-04-003",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 75,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319449",
+    "permits": [
+      {
+        "permitId": "96454",
+        "permitNumber": "BLDRC-2025-00519",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 468025,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319998",
+    "permits": [
+      {
+        "permitId": "96300",
+        "permitNumber": "20250139",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 298,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96316",
+        "permitNumber": "20250097",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 396,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "298383",
+    "permits": [
+      {
+        "permitId": "96357",
+        "permitNumber": "38915",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 24500,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "303169",
+    "permits": [
+      {
+        "permitId": "96505",
+        "permitNumber": "BLDR-2025-0820",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 22519,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "308317",
+    "permits": [
+      {
+        "permitId": "96413",
+        "permitNumber": "39046",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "30613",
+    "permits": [
+      {
+        "permitId": "96506",
+        "permitNumber": "BLDR-2025-0818",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-31",
+        "value": 13000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "307314",
+    "permits": [
+      {
+        "permitId": "96135",
+        "permitNumber": "BLDRC-2025-00507",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-28",
+        "value": 5000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "310773",
+    "permits": [
+      {
+        "permitId": "96490",
+        "permitNumber": "FHM-2025-0815",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-28",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96278",
+        "permitNumber": "ROW-2025-0505",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-18",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96279",
+        "permitNumber": "ROW-2025-0473",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-18",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96271",
+        "permitNumber": "ROW-2025-0472",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-17",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "61986",
+    "permits": [
+      {
+        "permitId": "96482",
+        "permitNumber": "WTR-2025-0636",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-28",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317712",
+    "permits": [
+      {
+        "permitId": "96491",
+        "permitNumber": "BLDR-2025-0310",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-28",
+        "value": 369057,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "42342",
+    "permits": [
+      {
+        "permitId": "96136",
+        "permitNumber": "BLDMISC-2025-01050",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-28",
+        "value": 15000,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96137",
+        "permitNumber": "BLDMISC-2025-01049",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-28",
+        "value": 15000,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96062",
+        "permitNumber": "BLDMISC-2025-00941",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-12",
+        "value": 15000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "11970",
+    "permits": [
+      {
+        "permitId": "96492",
+        "permitNumber": "BLDR-2025-0633",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-28",
+        "value": 250,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "24474",
+    "permits": [
+      {
+        "permitId": "96493",
+        "permitNumber": null,
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-28",
+        "value": 30000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "49552",
+    "permits": [
+      {
+        "permitId": "96390",
+        "permitNumber": "38973",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-28",
+        "value": 10000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "287027",
+    "permits": [
+      {
+        "permitId": "96148",
+        "permitNumber": "BLDR-000100-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-28",
+        "value": 110000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320300",
+    "permits": [
+      {
+        "permitId": "96478",
+        "permitNumber": "DPW-2025-0653",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-27",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96477",
+        "permitNumber": "BLDR-2025-0628",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-27",
+        "value": 237620,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "273198",
+    "permits": [
+      {
+        "permitId": "96475",
+        "permitNumber": "DPW-2025-0725",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-27",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96257",
+        "permitNumber": "MECC-2025-0109",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-12",
+        "value": 150000,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96256",
+        "permitNumber": "PLBC-2025-0116",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-12",
+        "value": 82000,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96258",
+        "permitNumber": "BLDC-2025-0107",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-12",
+        "value": 1600000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "21418",
+    "permits": [
+      {
+        "permitId": "96369",
+        "permitNumber": "38941",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-27",
+        "value": 44000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "20262",
+    "permits": [
+      {
+        "permitId": "96474",
+        "permitNumber": "BLDR-2025-0758",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-27",
+        "value": 32332,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317823",
+    "permits": [
+      {
+        "permitId": "96124",
+        "permitNumber": "BLDRC-2025-00496",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-27",
+        "value": 6485,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "32645",
+    "permits": [
+      {
+        "permitId": "96125",
+        "permitNumber": "BLDMISC-2025-01051",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-27",
+        "value": 8100,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "32648",
+    "permits": [
+      {
+        "permitId": "96123",
+        "permitNumber": "BLDCC-2025-00141",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-27",
+        "value": 1500,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "274419",
+    "permits": [
+      {
+        "permitId": "96480",
+        "permitNumber": "PLBR-2025-0800",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-27",
+        "value": 2073,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "37691",
+    "permits": [
+      {
+        "permitId": "96479",
+        "permitNumber": "MECR-2025-0795",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-27",
+        "value": 14293,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "14301",
+    "permits": [
+      {
+        "permitId": "96476",
+        "permitNumber": "MECR-2025-0797",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-27",
+        "value": 13680,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "308294",
+    "permits": [
+      {
+        "permitId": "96134",
+        "permitNumber": "BLDCC-2025-00148",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-27",
+        "value": 35000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "311108",
+    "permits": [
+      {
+        "permitId": "96363",
+        "permitNumber": "38930",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-27",
+        "value": 404000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320599",
+    "permits": [
+      {
+        "permitId": "96149",
+        "permitNumber": "BLDC-000102-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-27",
+        "value": 110000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "25751",
+    "permits": [
+      {
+        "permitId": "96333",
+        "permitNumber": "38827",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-27",
+        "value": 24000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "16779",
+    "permits": [
+      {
+        "permitId": "96366",
+        "permitNumber": "38934",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-27",
+        "value": 22000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "32856",
+    "permits": [
+      {
+        "permitId": "96133",
+        "permitNumber": "BLDMISC-2025-01030",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-27",
+        "value": 17046,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "91162",
+    "permits": [
+      {
+        "permitId": "96481",
+        "permitNumber": "BLDR-2025-0804",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-27",
+        "value": 14760,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319230",
+    "permits": [
+      {
+        "permitId": "96145",
+        "permitNumber": "BLDR-000138-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-27",
+        "value": 15000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320598",
+    "permits": [
+      {
+        "permitId": "96194",
+        "permitNumber": "BLDC-000102-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-27",
+        "value": 110000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "309518",
+    "permits": [
+      {
+        "permitId": "96121",
+        "permitNumber": "BLDRC-2025-00489",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-26",
+        "value": 12000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "40099",
+    "permits": [
+      {
+        "permitId": "96370",
+        "permitNumber": "38942",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-26",
+        "value": 464157,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "49649",
+    "permits": [
+      {
+        "permitId": "96361",
+        "permitNumber": "38929",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-26",
+        "value": 391000,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96336",
+        "permitNumber": "38885",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-17",
+        "value": 6000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "25331",
+    "permits": [
+      {
+        "permitId": "96147",
+        "permitNumber": "BLDR-000131-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-26",
+        "value": 9000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320648",
+    "permits": [
+      {
+        "permitId": "96525",
+        "permitNumber": "25-03-22-003",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-26",
+        "value": 75,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "297565",
+    "permits": [
+      {
+        "permitId": "96323",
+        "permitNumber": "20250149",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-26",
+        "value": 130,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "283998",
+    "permits": [
+      {
+        "permitId": "96465",
+        "permitNumber": "BLDR-2025-0792",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-26",
+        "value": 26700,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "30770",
+    "permits": [
+      {
+        "permitId": "96077",
+        "permitNumber": "25-ncblc-41",
+        "type": "PC",
+        "description": "Perm Crop New",
+        "issueDate": "2025-03-26",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317470",
+    "permits": [
+      {
+        "permitId": "96471",
+        "permitNumber": "DPW-2025-0621",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-26",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96472",
+        "permitNumber": "BLDR-2025-0604",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-26",
+        "value": 310881,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317394",
+    "permits": [
+      {
+        "permitId": "96469",
+        "permitNumber": "DPW-2025-0663",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-26",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96470",
+        "permitNumber": "BLDR-2025-0637",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-26",
+        "value": 283580,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317469",
+    "permits": [
+      {
+        "permitId": "96467",
+        "permitNumber": "DPW-2025-0620",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-26",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96468",
+        "permitNumber": "BLDR-2025-0603",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-26",
+        "value": 283580,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320676",
+    "permits": [
+      {
+        "permitId": "96524",
+        "permitNumber": "25-03-22-001",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-26",
+        "value": 75,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "61428",
+    "permits": [
+      {
+        "permitId": "96466",
+        "permitNumber": "MECC-2025-0585",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-26",
+        "value": 29500,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317955",
+    "permits": [
+      {
+        "permitId": "96435",
+        "permitNumber": "DPW-2025-0641",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-26",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96353",
+        "permitNumber": "DPW-2025-0642",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96295",
+        "permitNumber": "MECC-2024-3069",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-19",
+        "value": 2529108,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96294",
+        "permitNumber": "BLDC-2024-2809",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-19",
+        "value": 4588313,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96296",
+        "permitNumber": "BLDC-2024-3052",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-19",
+        "value": 8005323,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "54281",
+    "permits": [
+      {
+        "permitId": "96330",
+        "permitNumber": "38675",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-26",
+        "value": 346000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "21947",
+    "permits": [
+      {
+        "permitId": "96436",
+        "permitNumber": "BLDR-2025-0752",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-26",
+        "value": 14300,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "298653",
+    "permits": [
+      {
+        "permitId": "96122",
+        "permitNumber": "BLDMISC-2025-01042",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-26",
+        "value": 16000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "14882",
+    "permits": [
+      {
+        "permitId": "96473",
+        "permitNumber": "BLDR-2025-0775",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-26",
+        "value": 55503,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "33087",
+    "permits": [
+      {
+        "permitId": "96120",
+        "permitNumber": "BLDRC-2025-00501",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-26",
+        "value": 6485,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "64121",
+    "permits": [
+      {
+        "permitId": "96412",
+        "permitNumber": "PLBR-2025-0782",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-25",
+        "value": 2584,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "24985",
+    "permits": [
+      {
+        "permitId": "96428",
+        "permitNumber": "BLDC-2025-0162",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-25",
+        "value": 104362,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96426",
+        "permitNumber": "PLBC-2025-0418",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-25",
+        "value": 9719,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96431",
+        "permitNumber": "MECC-2025-0294",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-25",
+        "value": 400,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "277135",
+    "permits": [
+      {
+        "permitId": "96432",
+        "permitNumber": "BLDR-2025-0773",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-25",
+        "value": 17500,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "48293",
+    "permits": [
+      {
+        "permitId": "96423",
+        "permitNumber": "MECR-2025-0764",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-25",
+        "value": 14000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "14545",
+    "permits": [
+      {
+        "permitId": "96408",
+        "permitNumber": "BLDR-2025-0711",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-25",
+        "value": 25421,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319398",
+    "permits": [
+      {
+        "permitId": "96339",
+        "permitNumber": "38899",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-25",
+        "value": 65000,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96340",
+        "permitNumber": "38898",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-25",
+        "value": 343000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "293361",
+    "permits": [
+      {
+        "permitId": "96420",
+        "permitNumber": "PLBR-2025-0781\r\nPLBR-2025-0781",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-25",
+        "value": 7703,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "288518",
+    "permits": [
+      {
+        "permitId": "96146",
+        "permitNumber": "BLDR-000105-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-25",
+        "value": 81742,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "47151",
+    "permits": [
+      {
+        "permitId": "96377",
+        "permitNumber": "38961",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-25",
+        "value": 64000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "11626",
+    "permits": [
+      {
+        "permitId": "96410",
+        "permitNumber": "BLDC-2025-0769",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-25",
+        "value": 40000,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96325",
+        "permitNumber": "BLDC-2025-0732",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-21",
+        "value": 117000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "14096",
+    "permits": [
+      {
+        "permitId": "96434",
+        "permitNumber": "BLDR-2025-0474",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-25",
+        "value": 2097,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317036",
+    "permits": [
+      {
+        "permitId": "96388",
+        "permitNumber": "38972",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-25",
+        "value": 1500,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "277134",
+    "permits": [
+      {
+        "permitId": "96433",
+        "permitNumber": "BLDR-2025-0774",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-25",
+        "value": 13000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "58813",
+    "permits": [
+      {
+        "permitId": "96398",
+        "permitNumber": "39005",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-25",
+        "value": 1500,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96409",
+        "permitNumber": "39004",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-25",
+        "value": 12000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "26291",
+    "permits": [
+      {
+        "permitId": "96367",
+        "permitNumber": "38943",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-25",
+        "value": 10000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319232",
+    "permits": [
+      {
+        "permitId": "96392",
+        "permitNumber": "DPW-2025-0456",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96352",
+        "permitNumber": "BLDR-2025-0451",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 536440,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "43673",
+    "permits": [
+      {
+        "permitId": "96400",
+        "permitNumber": "PLBR-2025-0766",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 1221,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "298359",
+    "permits": [
+      {
+        "permitId": "96402",
+        "permitNumber": "PLBC-2025-0360",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 49000,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96228",
+        "permitNumber": "MECC-2025-0359",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 3000,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96227",
+        "permitNumber": "BLDC-2025-0354",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 58000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317393",
+    "permits": [
+      {
+        "permitId": "96397",
+        "permitNumber": "DPW-2025-0618",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96354",
+        "permitNumber": "BLDR-2025-0577",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 353725,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "294964",
+    "permits": [
+      {
+        "permitId": "96379",
+        "permitNumber": "BLDR-2025-0640",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 42000,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96346",
+        "permitNumber": "BLDR-2025-0496",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-21",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "318303",
+    "permits": [
+      {
+        "permitId": "96373",
+        "permitNumber": "DPW-2025-0741",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96368",
+        "permitNumber": "DPW-2025-0742",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96371",
+        "permitNumber": "DPW-2025-0743",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96372",
+        "permitNumber": "DPW-2025-0744",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "24306",
+    "permits": [
+      {
+        "permitId": "96365",
+        "permitNumber": "MECR-2025-0762",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 8000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "13502",
+    "permits": [
+      {
+        "permitId": "96351",
+        "permitNumber": "DPW-2025-0644",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "51949",
+    "permits": [
+      {
+        "permitId": "96407",
+        "permitNumber": "MECR-2025-0733",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 15000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "296497",
+    "permits": [
+      {
+        "permitId": "96405",
+        "permitNumber": "PLBC-2025-0207",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 12000,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96406",
+        "permitNumber": "BLDC-2024-3253",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 40000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "11460",
+    "permits": [
+      {
+        "permitId": "96376",
+        "permitNumber": "BLDR-2025-0483",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 7000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "294347",
+    "permits": [
+      {
+        "permitId": "96394",
+        "permitNumber": null,
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 5000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317392",
+    "permits": [
+      {
+        "permitId": "96384",
+        "permitNumber": "BLDR-2025-0576",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 335315,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96383",
+        "permitNumber": "DPW-2025-0617",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "308155",
+    "permits": [
+      {
+        "permitId": "96399",
+        "permitNumber": "SIGN-2025-0012",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 22417,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "39391",
+    "permits": [
+      {
+        "permitId": "96381",
+        "permitNumber": "BLDR-2025-0717",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 38889,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "24098",
+    "permits": [
+      {
+        "permitId": "96387",
+        "permitNumber": "BLDR-2025-0765",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 16000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "24701",
+    "permits": [
+      {
+        "permitId": "96401",
+        "permitNumber": "PLBR-2025-0767",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 1425,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "34955",
+    "permits": [
+      {
+        "permitId": "96396",
+        "permitNumber": "PLBR-2025-0750",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 2000,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96312",
+        "permitNumber": "PLBR-2025-0734",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 2000,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96229",
+        "permitNumber": "PLBR-2025-0610",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 1500,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317390",
+    "permits": [
+      {
+        "permitId": "96391",
+        "permitNumber": "BLDR-2025-0468",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 283580,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96389",
+        "permitNumber": "DPW-2025-0489",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "14717",
+    "permits": [
+      {
+        "permitId": "96403",
+        "permitNumber": "BLDR-2025-0729",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 33936,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "58640",
+    "permits": [
+      {
+        "permitId": "96404",
+        "permitNumber": "SIGN-2025-0013",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-24",
+        "value": 3520,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "38748",
+    "permits": [
+      {
+        "permitId": "96345",
+        "permitNumber": "MECR-2025-0749",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-21",
+        "value": 4549,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317471",
+    "permits": [
+      {
+        "permitId": "96344",
+        "permitNumber": "BLDR-2025-0520",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-21",
+        "value": 335315,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96343",
+        "permitNumber": "DPW-2025-0564",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-21",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "21945",
+    "permits": [
+      {
+        "permitId": "96341",
+        "permitNumber": "BLDR-2025-0674",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-21",
+        "value": 15000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "304066",
+    "permits": [
+      {
+        "permitId": "96326",
+        "permitNumber": "BLDR-2025-0740",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-21",
+        "value": 10300,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317474",
+    "permits": [
+      {
+        "permitId": "96342",
+        "permitNumber": "BLDR-2025-0440",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-21",
+        "value": 310881,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96297",
+        "permitNumber": "DPW-2025-0486",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "13853",
+    "permits": [
+      {
+        "permitId": "96319",
+        "permitNumber": "BLDC-2025-0563",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-21",
+        "value": 500,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "48706",
+    "permits": [
+      {
+        "permitId": "96335",
+        "permitNumber": "38878",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-21",
+        "value": 283000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "290071",
+    "permits": [
+      {
+        "permitId": "96347",
+        "permitNumber": "PLBC-2025-0552",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-21",
+        "value": 500000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "294967",
+    "permits": [
+      {
+        "permitId": "96348",
+        "permitNumber": "PLBR-2025-0747",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-21",
+        "value": 2948,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317472",
+    "permits": [
+      {
+        "permitId": "96350",
+        "permitNumber": "BLDR-2025-0521",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-21",
+        "value": 337387,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96349",
+        "permitNumber": "DPW-2025-0565",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-21",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "318179",
+    "permits": [
+      {
+        "permitId": "96097",
+        "permitNumber": "BLDMISC-2025-00971",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-21",
+        "value": 1500,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "54052",
+    "permits": [
+      {
+        "permitId": "96098",
+        "permitNumber": "BLDMISC-2025-01023",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-21",
+        "value": 7000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "14392",
+    "permits": [
+      {
+        "permitId": "96321",
+        "permitNumber": "PLBR-2025-0736",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-21",
+        "value": 1159,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "276246",
+    "permits": [
+      {
+        "permitId": "96096",
+        "permitNumber": "BLDMISC-2025-00836",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-21",
+        "value": 2400,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "15828",
+    "permits": [
+      {
+        "permitId": "96099",
+        "permitNumber": "BLDMISC-2025-01024",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-21",
+        "value": 11679,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320283",
+    "permits": [
+      {
+        "permitId": "96100",
+        "permitNumber": "BLDRC-2025-00467",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-21",
+        "value": 371311,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317391",
+    "permits": [
+      {
+        "permitId": "96305",
+        "permitNumber": "BLDR-2025-0469",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 310881,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96304",
+        "permitNumber": "DPW-2025-0493",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317197",
+    "permits": [
+      {
+        "permitId": "96315",
+        "permitNumber": "MECC-2025-0101",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 10000,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96314",
+        "permitNumber": "PLBC-2025-0098",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 10000,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96318",
+        "permitNumber": "BLDC-2024-3320",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 403995,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "13759",
+    "permits": [
+      {
+        "permitId": "96303",
+        "permitNumber": "PLBC-2025-0724",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 800,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "44265",
+    "permits": [
+      {
+        "permitId": "96091",
+        "permitNumber": "BLDCC-2024-00017",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 104500,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "29417",
+    "permits": [
+      {
+        "permitId": "96140",
+        "permitNumber": "BLDR-000108-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 21000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "280590",
+    "permits": [
+      {
+        "permitId": "96094",
+        "permitNumber": "BLDMISC-2025-01019",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 20000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "23876",
+    "permits": [
+      {
+        "permitId": "96307",
+        "permitNumber": "BLDR-2025-0495",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 80000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320699",
+    "permits": [
+      {
+        "permitId": "96101",
+        "permitNumber": "BLDRC-2025-00439",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 469593,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "22025",
+    "permits": [
+      {
+        "permitId": "96310",
+        "permitNumber": "BLDC-2025-0413",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 65000,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96311",
+        "permitNumber": "PLBC-2025-0415",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 1200,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96309",
+        "permitNumber": "MECC-2025-0414",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 4500,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "55920",
+    "permits": [
+      {
+        "permitId": "96092",
+        "permitNumber": "BLDMISC-2025-01013",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 18384,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "309052",
+    "permits": [
+      {
+        "permitId": "96298",
+        "permitNumber": "BLDR-2025-0730",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 50000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "279215",
+    "permits": [
+      {
+        "permitId": "96299",
+        "permitNumber": "MECR-2025-0713",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 15000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "35748",
+    "permits": [
+      {
+        "permitId": "96301",
+        "permitNumber": "BLDR-2025-0703",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 10000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "25396",
+    "permits": [
+      {
+        "permitId": "96144",
+        "permitNumber": "BLDR-000063-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 145000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "299113",
+    "permits": [
+      {
+        "permitId": "96306",
+        "permitNumber": "PLBR-2025-0596",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 2500,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "280624",
+    "permits": [
+      {
+        "permitId": "96093",
+        "permitNumber": "BLDMISC-2025-01014",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 20000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "62525",
+    "permits": [
+      {
+        "permitId": "96308",
+        "permitNumber": "BLDR-2025-0726",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 5000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317791",
+    "permits": [
+      {
+        "permitId": "96095",
+        "permitNumber": "BLDRC-2025-00448",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 559408,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "282921",
+    "permits": [
+      {
+        "permitId": "96331",
+        "permitNumber": "38769",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-20",
+        "value": 13000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319431",
+    "permits": [
+      {
+        "permitId": "96090",
+        "permitNumber": "BLDRC-2025-00375",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-19",
+        "value": 291326,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "30623",
+    "permits": [
+      {
+        "permitId": "96285",
+        "permitNumber": "BLDR-2025-0459",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-19",
+        "value": 25000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "318820",
+    "permits": [
+      {
+        "permitId": "96287",
+        "permitNumber": "DPW-2025-0708",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-19",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96288",
+        "permitNumber": "BLDR-2025-0372",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-19",
+        "value": 266631,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "318821",
+    "permits": [
+      {
+        "permitId": "96289",
+        "permitNumber": "DPW-2025-0710",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-19",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96290",
+        "permitNumber": "BLDR-2025-0373",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-19",
+        "value": 266631,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "24385",
+    "permits": [
+      {
+        "permitId": "96284",
+        "permitNumber": "PLBC-2025-0705",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-19",
+        "value": 1500,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "315608",
+    "permits": [
+      {
+        "permitId": "96142",
+        "permitNumber": "FIRE-000112-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-19",
+        "value": 17000,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96143",
+        "permitNumber": "FIRE-000111-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-19",
+        "value": 17000,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96141",
+        "permitNumber": "FIRE-000110-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-19",
+        "value": 17000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "35804",
+    "permits": [
+      {
+        "permitId": "96286",
+        "permitNumber": "MECC-2024-0960",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-19",
+        "value": 32945,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "318819",
+    "permits": [
+      {
+        "permitId": "96293",
+        "permitNumber": "BLDR-2025-0371",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-19",
+        "value": 266671,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96292",
+        "permitNumber": "DPW-2025-0720",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-19",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "272819",
+    "permits": [
+      {
+        "permitId": "96086",
+        "permitNumber": "BLDMISC-2025-01015",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-19",
+        "value": 3000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "295080",
+    "permits": [
+      {
+        "permitId": "96291",
+        "permitNumber": "MECC-2025-0718",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-19",
+        "value": 26000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319430",
+    "permits": [
+      {
+        "permitId": "96089",
+        "permitNumber": "BLDRC-2024-00327",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-19",
+        "value": 285297,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "46070",
+    "permits": [
+      {
+        "permitId": "96355",
+        "permitNumber": "38907",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-19",
+        "value": 40000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "315544",
+    "permits": [
+      {
+        "permitId": "96356",
+        "permitNumber": "38912",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-19",
+        "value": 348000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "33991",
+    "permits": [
+      {
+        "permitId": "96087",
+        "permitNumber": "BLDMISC-2025-01016",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-19",
+        "value": 7000,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96088",
+        "permitNumber": "BLDMISC-2025-01017",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-19",
+        "value": 7000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "31934",
+    "permits": [
+      {
+        "permitId": "96277",
+        "permitNumber": "MECR-2025-0700",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-18",
+        "value": 12295,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "65845",
+    "permits": [
+      {
+        "permitId": "96085",
+        "permitNumber": "BLDRC-2025-00450",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-18",
+        "value": 242000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "54758",
+    "permits": [
+      {
+        "permitId": "96084",
+        "permitNumber": "BLDMISC-2025-01010",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-18",
+        "value": 17961,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "316871",
+    "permits": [
+      {
+        "permitId": "96280",
+        "permitNumber": "BLDC-2025-0624",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-18",
+        "value": 20000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317473",
+    "permits": [
+      {
+        "permitId": "96281",
+        "permitNumber": "DPW-2025-0485",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-18",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96282",
+        "permitNumber": "BLDR-2025-0439",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-18",
+        "value": 283580,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "306096",
+    "permits": [
+      {
+        "permitId": "96139",
+        "permitNumber": "BLDR-000114-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-18",
+        "value": 6000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320185",
+    "permits": [
+      {
+        "permitId": "96337",
+        "permitNumber": "38891",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-18",
+        "value": 303000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320744",
+    "permits": [
+      {
+        "permitId": "96054",
+        "permitNumber": "9999999",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-18",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "279683",
+    "permits": [
+      {
+        "permitId": "96082",
+        "permitNumber": "BLDMISC-2025-01003",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-18",
+        "value": 2420,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96081",
+        "permitNumber": "BLDMISC-2025-01002",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-18",
+        "value": 21732,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "30755",
+    "permits": [
+      {
+        "permitId": "96048",
+        "permitNumber": "25-ncblc-40",
+        "type": "PC",
+        "description": "Perm Crop New",
+        "issueDate": "2025-03-18",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "11592",
+    "permits": [
+      {
+        "permitId": "96283",
+        "permitNumber": "BLDR-2025-0701",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-18",
+        "value": 8000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320406",
+    "permits": [
+      {
+        "permitId": "96102",
+        "permitNumber": "BLDCC-2024-00072",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-18",
+        "value": 1716525,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "91102",
+    "permits": [
+      {
+        "permitId": "96083",
+        "permitNumber": "BLDMISC-2025-01008",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-18",
+        "value": 3754,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "30754",
+    "permits": [
+      {
+        "permitId": "96047",
+        "permitNumber": "25-ncblc-39",
+        "type": "PC",
+        "description": "Perm Crop New",
+        "issueDate": "2025-03-18",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "314928",
+    "permits": [
+      {
+        "permitId": "96274",
+        "permitNumber": "DPW-2025-0672",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-17",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96272",
+        "permitNumber": "BLDR-2025-0425",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-17",
+        "value": 547547,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "316124",
+    "permits": [
+      {
+        "permitId": "96080",
+        "permitNumber": "BLDRC-2025-00485",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-17",
+        "value": 3178,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "295002",
+    "permits": [
+      {
+        "permitId": "96411",
+        "permitNumber": "39010",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-17",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "16403",
+    "permits": [
+      {
+        "permitId": "96329",
+        "permitNumber": "38603",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-17",
+        "value": 15000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "25257",
+    "permits": [
+      {
+        "permitId": "96138",
+        "permitNumber": "BLDR-000651-2024",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-17",
+        "value": 655280,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "29049",
+    "permits": [
+      {
+        "permitId": "96275",
+        "permitNumber": "BLDR-2025-0699",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-17",
+        "value": 18000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "274327",
+    "permits": [
+      {
+        "permitId": "96079",
+        "permitNumber": "BLDMISC-2025-00896",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-17",
+        "value": 10875,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "64161",
+    "permits": [
+      {
+        "permitId": "96276",
+        "permitNumber": "MECC-2025-0665",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-17",
+        "value": 24000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "282123",
+    "permits": [
+      {
+        "permitId": "96273",
+        "permitNumber": "MECR-2025-0651",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-17",
+        "value": 12349,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "46885",
+    "permits": [
+      {
+        "permitId": "96414",
+        "permitNumber": "38887",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-17",
+        "value": 264000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "18714",
+    "permits": [
+      {
+        "permitId": "96078",
+        "permitNumber": "BLDCC-2025-00128",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-17",
+        "value": 25000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320825",
+    "permits": [
+      {
+        "permitId": "96483",
+        "permitNumber": "BLDR-000670-2024",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-14",
+        "value": 274186,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "282125",
+    "permits": [
+      {
+        "permitId": "96268",
+        "permitNumber": "BLDR-2025-0677",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-14",
+        "value": 21500,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "91253",
+    "permits": [
+      {
+        "permitId": "96269",
+        "permitNumber": "BLDR-2025-0675",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-14",
+        "value": 18215,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "16639",
+    "permits": [
+      {
+        "permitId": "96374",
+        "permitNumber": "38958",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-14",
+        "value": 12000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320789",
+    "permits": [
+      {
+        "permitId": "96485",
+        "permitNumber": "BLDR-000037-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-14",
+        "value": 272615,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320824",
+    "permits": [
+      {
+        "permitId": "96486",
+        "permitNumber": "BLDR-000035-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-14",
+        "value": 346236,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320826",
+    "permits": [
+      {
+        "permitId": "96484",
+        "permitNumber": "BLDR-000669-2024",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-14",
+        "value": 346236,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "27436",
+    "permits": [
+      {
+        "permitId": "96046",
+        "permitNumber": "BLDR-000137-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-14",
+        "value": 25886,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "301834",
+    "permits": [
+      {
+        "permitId": "96270",
+        "permitNumber": "SIGN-2025-0010",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-14",
+        "value": 50000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "12248",
+    "permits": [
+      {
+        "permitId": "96068",
+        "permitNumber": "BLDR-000669-2024",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-14",
+        "value": 346236,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96071",
+        "permitNumber": "BLDR-000038-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-14",
+        "value": 227301,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96069",
+        "permitNumber": "BLDR-000037-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-14",
+        "value": 272615,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96067",
+        "permitNumber": "BLDR-000670-2024",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-14",
+        "value": 274186,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96070",
+        "permitNumber": "BLDR-000035-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-14",
+        "value": 346236,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96072",
+        "permitNumber": "BLDR-000036-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-14",
+        "value": 274186,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "20861",
+    "permits": [
+      {
+        "permitId": "96266",
+        "permitNumber": "MECR-2025-0656",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-14",
+        "value": 16000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "43775",
+    "permits": [
+      {
+        "permitId": "96265",
+        "permitNumber": "BLDR-2025-0638",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-14",
+        "value": 10560,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320790",
+    "permits": [
+      {
+        "permitId": "96487",
+        "permitNumber": "BLDR-000038-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-14",
+        "value": 227301,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320823",
+    "permits": [
+      {
+        "permitId": "96488",
+        "permitNumber": "BLDR-000036-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-14",
+        "value": 274186,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "13647",
+    "permits": [
+      {
+        "permitId": "96267",
+        "permitNumber": "PLBR-2025-0673",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-14",
+        "value": 1900,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "310662",
+    "permits": [
+      {
+        "permitId": "96260",
+        "permitNumber": "BLDR-2025-0623",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-13",
+        "value": 5000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "318822",
+    "permits": [
+      {
+        "permitId": "96264",
+        "permitNumber": "BLDR-2025-0374",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-13",
+        "value": 266826,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96263",
+        "permitNumber": "DPW-2025-0388",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-13",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "37077",
+    "permits": [
+      {
+        "permitId": "96262",
+        "permitNumber": "PLBR-2025-0667",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-13",
+        "value": 5000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "45137",
+    "permits": [
+      {
+        "permitId": "96378",
+        "permitNumber": "38960",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-13",
+        "value": 26000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "316548",
+    "permits": [
+      {
+        "permitId": "96261",
+        "permitNumber": "MECC-2025-0652",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-13",
+        "value": 13860,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "28966",
+    "permits": [
+      {
+        "permitId": "96259",
+        "permitNumber": "BLDR-2025-0622",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-12",
+        "value": 19871,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319935",
+    "permits": [
+      {
+        "permitId": "96253",
+        "permitNumber": "FHM-2025-0648",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-12",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "59902",
+    "permits": [
+      {
+        "permitId": "96251",
+        "permitNumber": "FHM-2025-0646",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-12",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317338",
+    "permits": [
+      {
+        "permitId": "96252",
+        "permitNumber": "MECC-2024-3229",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-12",
+        "value": 65000,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96254",
+        "permitNumber": "PLBC-2024-3230",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-12",
+        "value": 30000,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96255",
+        "permitNumber": "BLDC-2024-3228",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-12",
+        "value": 1291790,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "282166",
+    "permits": [
+      {
+        "permitId": "96045",
+        "permitNumber": "BLDR-000128-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-12",
+        "value": 44877,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317681",
+    "permits": [
+      {
+        "permitId": "96240",
+        "permitNumber": "FHM-2025-0632",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96161",
+        "permitNumber": "BLDR-2025-0233",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-04",
+        "value": 31600,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320169",
+    "permits": [
+      {
+        "permitId": "96241",
+        "permitNumber": "DPW-2025-0616",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96242",
+        "permitNumber": "BLDR-2025-0605",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 363296,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "23897",
+    "permits": [
+      {
+        "permitId": "96239",
+        "permitNumber": "DPW-2025-0574",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320199",
+    "permits": [
+      {
+        "permitId": "96060",
+        "permitNumber": "BLDRC-2025-00446",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 292888,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "38895",
+    "permits": [
+      {
+        "permitId": "96244",
+        "permitNumber": "MECR-2025-0615",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 4485,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "65238",
+    "permits": [
+      {
+        "permitId": "96053",
+        "permitNumber": "BLDMISC-2025-00985",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 8713,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "39366",
+    "permits": [
+      {
+        "permitId": "96249",
+        "permitNumber": "MECR-2025-0634",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 20786,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "14776",
+    "permits": [
+      {
+        "permitId": "96248",
+        "permitNumber": "BLDR-2025-0619",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 15381,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "299711",
+    "permits": [
+      {
+        "permitId": "96250",
+        "permitNumber": "PLBR-2025-0599",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 2800,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "14604",
+    "permits": [
+      {
+        "permitId": "96243",
+        "permitNumber": "BLDR-2025-0614",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 11530,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "310320",
+    "permits": [
+      {
+        "permitId": "96246",
+        "permitNumber": "MECC-2025-0271",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 26270,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96245",
+        "permitNumber": "PLBC-2025-0272",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 23410,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96247",
+        "permitNumber": "BLDC-2025-0270",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 277898,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "318796",
+    "permits": [
+      {
+        "permitId": "96051",
+        "permitNumber": "BLDCC-2024-00060",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 885316,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "95906",
+        "permitNumber": "BLDCC-2025-00115",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 37000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320413",
+    "permits": [
+      {
+        "permitId": "96057",
+        "permitNumber": "BLDRC-2025-00436",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 418604,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317093",
+    "permits": [
+      {
+        "permitId": "96056",
+        "permitNumber": "BLDRC-2025-00428",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 636325,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "50738",
+    "permits": [
+      {
+        "permitId": "96395",
+        "permitNumber": "38982",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 6600,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317802",
+    "permits": [
+      {
+        "permitId": "96055",
+        "permitNumber": "BLDRC-2025-00398",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 565098,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320281",
+    "permits": [
+      {
+        "permitId": "96061",
+        "permitNumber": "BLDRC-2025-00447",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 292888,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "44599",
+    "permits": [
+      {
+        "permitId": "96052",
+        "permitNumber": "BLDMISC-2024-00761",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 5000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320279",
+    "permits": [
+      {
+        "permitId": "96058",
+        "permitNumber": "BLDRC-2025-00438",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 261062,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320250",
+    "permits": [
+      {
+        "permitId": "96059",
+        "permitNumber": "BLDRC-2025-00445",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 265583,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "42726",
+    "permits": [
+      {
+        "permitId": "96360",
+        "permitNumber": "38926",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-11",
+        "value": 48000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317205",
+    "permits": [
+      {
+        "permitId": "96235",
+        "permitNumber": "BLDR-2025-0490",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 967389,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96234",
+        "permitNumber": "DPW-2025-0545",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "12509",
+    "permits": [
+      {
+        "permitId": "96520",
+        "permitNumber": "23-12-22-001",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 129,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "60621",
+    "permits": [
+      {
+        "permitId": "96231",
+        "permitNumber": "BLDC-2025-0571",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 111418,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319548",
+    "permits": [
+      {
+        "permitId": "96049",
+        "permitNumber": "BLDRC-2025-00406",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 275116,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "286632",
+    "permits": [
+      {
+        "permitId": "96050",
+        "permitNumber": "BLDRC-2025-00465",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 126699,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "284476",
+    "permits": [
+      {
+        "permitId": "96041",
+        "permitNumber": "PLMR-000125-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 3486,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "27557",
+    "permits": [
+      {
+        "permitId": "96044",
+        "permitNumber": "MECR-000124-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 14589,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319159",
+    "permits": [
+      {
+        "permitId": "96236",
+        "permitNumber": "DPW-2025-0437",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96220",
+        "permitNumber": "BLDR-2025-0429",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 267700,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320072",
+    "permits": [
+      {
+        "permitId": "96237",
+        "permitNumber": "DPW-2025-0436",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96238",
+        "permitNumber": "BLDR-2025-0428",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 296942,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320073",
+    "permits": [
+      {
+        "permitId": "96233",
+        "permitNumber": "DPW-2025-0431",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96232",
+        "permitNumber": "BLDR-2025-0321",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 337980,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319279",
+    "permits": [
+      {
+        "permitId": "96324",
+        "permitNumber": "20250134",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 3333,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "22211",
+    "permits": [
+      {
+        "permitId": "96225",
+        "permitNumber": "BLDR-2025-0601",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 19010,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317140",
+    "permits": [
+      {
+        "permitId": "96223",
+        "permitNumber": "BLDR-2025-0391",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 350807,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96222",
+        "permitNumber": "DPW-2025-0435",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319271",
+    "permits": [
+      {
+        "permitId": "96327",
+        "permitNumber": "20250133",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 2825,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "14582",
+    "permits": [
+      {
+        "permitId": "96230",
+        "permitNumber": "BLDR-2025-0072",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 42000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "29024",
+    "permits": [
+      {
+        "permitId": "96221",
+        "permitNumber": "BLDR-2025-0400",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 42990,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "286589",
+    "permits": [
+      {
+        "permitId": "96042",
+        "permitNumber": "BLDR-000123-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 11854,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320696",
+    "permits": [
+      {
+        "permitId": "96224",
+        "permitNumber": "BLDC-2024-3296",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 16000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "27982",
+    "permits": [
+      {
+        "permitId": "96043",
+        "permitNumber": "BLDR-000121-2025",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 4000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "309550",
+    "permits": [
+      {
+        "permitId": "96338",
+        "permitNumber": "38892",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 332000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "31846",
+    "permits": [
+      {
+        "permitId": "96226",
+        "permitNumber": "MECR-2025-0606",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 14964,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "293138",
+    "permits": [
+      {
+        "permitId": "96393",
+        "permitNumber": "38975",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 13242,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "316304",
+    "permits": [
+      {
+        "permitId": "96523",
+        "permitNumber": "25-03-10-005",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 75,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319284",
+    "permits": [
+      {
+        "permitId": "96320",
+        "permitNumber": "20250132",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-10",
+        "value": 2979,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319079",
+    "permits": [
+      {
+        "permitId": "95938",
+        "permitNumber": "BLDRC-2025-00441",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 433874,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320308",
+    "permits": [
+      {
+        "permitId": "96211",
+        "permitNumber": "BLDR-2025-0462",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 385761,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96210",
+        "permitNumber": "DPW-2025-0466",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "22240",
+    "permits": [
+      {
+        "permitId": "96203",
+        "permitNumber": "MECR-2025-0587",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 23000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317476",
+    "permits": [
+      {
+        "permitId": "96217",
+        "permitNumber": "BLDR-2025-0287",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 353725,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96216",
+        "permitNumber": "DPW-2025-0306",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "301926",
+    "permits": [
+      {
+        "permitId": "96375",
+        "permitNumber": "38956",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 29000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "50535",
+    "permits": [
+      {
+        "permitId": "96202",
+        "permitNumber": "BLDR-2025-0274",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 4500,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320706",
+    "permits": [
+      {
+        "permitId": "96197",
+        "permitNumber": "DPW-2025-0508",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96169",
+        "permitNumber": "DPW-2025-0510",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96166",
+        "permitNumber": "DPW-2025-0509",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96168",
+        "permitNumber": "DPW-2025-0511",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96165",
+        "permitNumber": "DPW-2025-0515",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96167",
+        "permitNumber": "DPW-2025-0513",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317388",
+    "permits": [
+      {
+        "permitId": "96213",
+        "permitNumber": "BLDR-2025-0386",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 335315,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96212",
+        "permitNumber": "DPW-2025-0404",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "61484",
+    "permits": [
+      {
+        "permitId": "96204",
+        "permitNumber": "SIGN-2025-0008",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 26840,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "28790",
+    "permits": [
+      {
+        "permitId": "96198",
+        "permitNumber": "BLDR-2025-0230",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 22000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317475",
+    "permits": [
+      {
+        "permitId": "96215",
+        "permitNumber": "BLDR-2025-0286",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 335315,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96214",
+        "permitNumber": "DPW-2025-0305",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "291624",
+    "permits": [
+      {
+        "permitId": "96200",
+        "permitNumber": "MECR-2025-0597",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 21330,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320353",
+    "permits": [
+      {
+        "permitId": "96205",
+        "permitNumber": "DPW-2025-0491",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96206",
+        "permitNumber": "BLDR-2025-0481",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 347235,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "272703",
+    "permits": [
+      {
+        "permitId": "96199",
+        "permitNumber": "BLDR-2025-0588",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 10950,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "59545",
+    "permits": [
+      {
+        "permitId": "96362",
+        "permitNumber": "38928",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 3729000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317389",
+    "permits": [
+      {
+        "permitId": "96218",
+        "permitNumber": "DPW-2025-0406",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96219",
+        "permitNumber": "BLDR-2025-0389",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 353725,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "60018",
+    "permits": [
+      {
+        "permitId": "96209",
+        "permitNumber": "BLDR-2025-0600",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 13000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "63767",
+    "permits": [
+      {
+        "permitId": "96201",
+        "permitNumber": "MECR-2025-0595",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 14413,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "63103",
+    "permits": [
+      {
+        "permitId": "96364",
+        "permitNumber": "38927",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 3729000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320309",
+    "permits": [
+      {
+        "permitId": "96207",
+        "permitNumber": "DPW-2025-0492",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96208",
+        "permitNumber": "BLDR-2025-0484",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 351126,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319984",
+    "permits": [
+      {
+        "permitId": "96385",
+        "permitNumber": "20250105",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 2287,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96386",
+        "permitNumber": "20250115",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 2725,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319429",
+    "permits": [
+      {
+        "permitId": "95939",
+        "permitNumber": "BLDRC-2025-00442",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 291027,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320280",
+    "permits": [
+      {
+        "permitId": "95935",
+        "permitNumber": "BLDRC-2025-00363",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 296669,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319082",
+    "permits": [
+      {
+        "permitId": "95936",
+        "permitNumber": "BLDRC-2025-00440",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-07",
+        "value": 449606,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "318546",
+    "permits": [
+      {
+        "permitId": "96515",
+        "permitNumber": "DPW-2025-0350",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-06",
+        "value": 0,
+        "status": "Active",
+        "comments": "(CONTINUED DESCRIPTION) PRESSURE REGULATOR PRECEDED BY AN ADEQUATE STRAINER AND THE STATIC PRESSURE REDUCED TO 80 PSI OR LESS, PER UNIFORM PLUMBING CODE, SECTION 608.2."
+      },
+      {
+        "permitId": "96518",
+        "permitNumber": "BLDR-2025-0284",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-06",
+        "value": 259261,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96513",
+        "permitNumber": "BLDR-2025-0307",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-06",
+        "value": 149726,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96514",
+        "permitNumber": "DPW-2025-0348",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-06",
+        "value": 0,
+        "status": "Active",
+        "comments": "(CONTINUED DESCRIPTION) PRESSURE REGULATOR PRECEDED BY AN ADEQUATE STRAINER AND THE STATIC PRESSURE REDUCED TO 80PSI OR LESS, PER UNIFORM PLUMBING CODE, SECTION 608.2."
+      },
+      {
+        "permitId": "96517",
+        "permitNumber": "DPW-2025-0296",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-06",
+        "value": 0,
+        "status": "Active",
+        "comments": "REGULATOR PRECEDED BY AN ADEQUATE STRAINER AND THE STATIC PRESSURE REDUCED TO 80 PSI OR LESS, PER UNIFORM PLUMBING CODE, SECTION 608.2."
+      },
+      {
+        "permitId": "96516",
+        "permitNumber": "BLDR-2025-0308",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-06",
+        "value": 149726,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96512",
+        "permitNumber": "BLDR-2025-0304",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 149726,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96511",
+        "permitNumber": "DPW-2025-0343",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 0,
+        "status": "Active",
+        "comments": "(DESCRIPTION CONTINUED) PRESSURE REGULATOR PRECEDED BY AN ADEQUATE STRAINER AND THE STATIC PRESSURE REDUCED TO 80 PSI OR LESS, PER UNIFORM PLUMBING CODE, SECTION 608.2."
+      }
+    ]
+  },
+  {
+    "propertyId": "22174",
+    "permits": [
+      {
+        "permitId": "96195",
+        "permitNumber": "PLBR-2025-0590",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-06",
+        "value": 9566,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "290235",
+    "permits": [
+      {
+        "permitId": "95919",
+        "permitNumber": "BLDCC-2025-00134",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-06",
+        "value": 2000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "33963",
+    "permits": [
+      {
+        "permitId": "95931",
+        "permitNumber": "BLDRC-2025-00469",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-06",
+        "value": 1646,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "318760",
+    "permits": [
+      {
+        "permitId": "96191",
+        "permitNumber": "MECC-2025-0309",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-06",
+        "value": 20500,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "18666",
+    "permits": [
+      {
+        "permitId": "95933",
+        "permitNumber": "BLDRC-2025-00475",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-06",
+        "value": 10895,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "315964",
+    "permits": [
+      {
+        "permitId": "95929",
+        "permitNumber": "BLDRC-2025-00460",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-06",
+        "value": 127900,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "14132",
+    "permits": [
+      {
+        "permitId": "96196",
+        "permitNumber": "BLDR-2025-0592",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-06",
+        "value": 7799,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "20119",
+    "permits": [
+      {
+        "permitId": "96190",
+        "permitNumber": "BLDC-2025-0398",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-06",
+        "value": 50000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "64791",
+    "permits": [
+      {
+        "permitId": "95928",
+        "permitNumber": "BLDRC-2025-00364",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-06",
+        "value": 150000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "66984",
+    "permits": [
+      {
+        "permitId": "96192",
+        "permitNumber": "MECR-2025-0589",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-06",
+        "value": 9898,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "316851",
+    "permits": [
+      {
+        "permitId": "95904",
+        "permitNumber": "BLDCC-2025-00110",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 500000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "300827",
+    "permits": [
+      {
+        "permitId": "95909",
+        "permitNumber": "BLDCC-2025-00130",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 10000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319067",
+    "permits": [
+      {
+        "permitId": "95914",
+        "permitNumber": "BLDRC-2025-00426",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 533995,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "22252",
+    "permits": [
+      {
+        "permitId": "96181",
+        "permitNumber": "BLDR-2025-0076",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 243079,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "22079",
+    "permits": [
+      {
+        "permitId": "96170",
+        "permitNumber": "PLBR-2025-0575",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 1100,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317110",
+    "permits": [
+      {
+        "permitId": "95908",
+        "permitNumber": "BLDCC-2025-00129",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 451936,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "15550",
+    "permits": [
+      {
+        "permitId": "95911",
+        "permitNumber": "BLDMISC-2025-00958",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 20000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "285306",
+    "permits": [
+      {
+        "permitId": "96164",
+        "permitNumber": "MECR-2025-0573",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 9183,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "318451",
+    "permits": [
+      {
+        "permitId": "96173",
+        "permitNumber": "DPW-2025-0191",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96174",
+        "permitNumber": "BLDR-2025-0042",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 276469,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "31548",
+    "permits": [
+      {
+        "permitId": "96380",
+        "permitNumber": "38966",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 18899,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317200",
+    "permits": [
+      {
+        "permitId": "96183",
+        "permitNumber": "DPW-2025-0556",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96184",
+        "permitNumber": "BLDR-2025-0480",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 888447,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "318452",
+    "permits": [
+      {
+        "permitId": "96171",
+        "permitNumber": "DPW-2025-0189\r\nDPW-2025-0189",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96172",
+        "permitNumber": "BLDR-2025-0040",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 276404,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "292230",
+    "permits": [
+      {
+        "permitId": "96187",
+        "permitNumber": "MECR-2025-0580",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 2000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "318453",
+    "permits": [
+      {
+        "permitId": "96177",
+        "permitNumber": "DPW-2025-0187",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96178",
+        "permitNumber": "BLDR-2025-0022",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 276405,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "318450",
+    "permits": [
+      {
+        "permitId": "96175",
+        "permitNumber": "DPW-2025-0190",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96176",
+        "permitNumber": "BLDR-2025-0041",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 276405,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "63573",
+    "permits": [
+      {
+        "permitId": "96163",
+        "permitNumber": "BLDR-2025-0568",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 20500,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "32466",
+    "permits": [
+      {
+        "permitId": "95917",
+        "permitNumber": "BLDRC-2025-00457",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 33474,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "13510",
+    "permits": [
+      {
+        "permitId": "96185",
+        "permitNumber": "BLDR-2025-0579",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 12288,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319091",
+    "permits": [
+      {
+        "permitId": "95916",
+        "permitNumber": "BLDRC-2025-00431",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 706440,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "43246",
+    "permits": [
+      {
+        "permitId": "96179",
+        "permitNumber": "PLBR-2025-0578",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 3852,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "283042",
+    "permits": [
+      {
+        "permitId": "96182",
+        "permitNumber": "BLDC-2025-0249",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 36000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "316119",
+    "permits": [
+      {
+        "permitId": "95913",
+        "permitNumber": "BLDRC-2025-00369",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 394877,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "61433",
+    "permits": [
+      {
+        "permitId": "96186",
+        "permitNumber": "BLDC-2025-0581",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 35720,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317287",
+    "permits": [
+      {
+        "permitId": "96358",
+        "permitNumber": "38918",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 18000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "37344",
+    "permits": [
+      {
+        "permitId": "96189",
+        "permitNumber": "BLDR-2025-0586",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "11203",
+    "permits": [
+      {
+        "permitId": "96180",
+        "permitNumber": "BLDR-2025-0572",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-05",
+        "value": 7000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "17388",
+    "permits": [
+      {
+        "permitId": "96155",
+        "permitNumber": "BLDR-2025-0535",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-04",
+        "value": 12000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "65345",
+    "permits": [
+      {
+        "permitId": "95903",
+        "permitNumber": "BLDRC-2025-00452",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-04",
+        "value": 12970,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319746",
+    "permits": [
+      {
+        "permitId": "96160",
+        "permitNumber": "BLDR-2025-0518",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-04",
+        "value": 363296,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96159",
+        "permitNumber": "DPW-2025-0557",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-04",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "297329",
+    "permits": [
+      {
+        "permitId": "95898",
+        "permitNumber": "BLDMISC-2025-00961",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-04",
+        "value": 700000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320094",
+    "permits": [
+      {
+        "permitId": "96157",
+        "permitNumber": "DPW-2025-0526",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-04",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96158",
+        "permitNumber": "BLDR-2025-0423",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-04",
+        "value": 408063,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319270",
+    "permits": [
+      {
+        "permitId": "96317",
+        "permitNumber": "20250126",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-04",
+        "value": 3333,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320443",
+    "permits": [
+      {
+        "permitId": "95899",
+        "permitNumber": "BLDRC-2025-00380",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-04",
+        "value": 261120,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317792",
+    "permits": [
+      {
+        "permitId": "95901",
+        "permitNumber": "BLDRC-2025-00395",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-04",
+        "value": 419421,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317813",
+    "permits": [
+      {
+        "permitId": "95900",
+        "permitNumber": "BLDRC-2025-00394",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-04",
+        "value": 486728,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "59901",
+    "permits": [
+      {
+        "permitId": "96162",
+        "permitNumber": "BLDC-2025-0301",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-04",
+        "value": 15000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "10009",
+    "permits": [
+      {
+        "permitId": "96382",
+        "permitNumber": "38963",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-04",
+        "value": 14013,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "277162",
+    "permits": [
+      {
+        "permitId": "96156",
+        "permitNumber": "BLDR-2025-0482",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-04",
+        "value": 6694,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "298317",
+    "permits": [
+      {
+        "permitId": "95902",
+        "permitNumber": "BLDRC-2025-00451",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-04",
+        "value": 16500,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "274706",
+    "permits": [
+      {
+        "permitId": "95894",
+        "permitNumber": "BLDMISC-2025-00959",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-04",
+        "value": 20081,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "47403",
+    "permits": [
+      {
+        "permitId": "96359",
+        "permitNumber": "38921\r\n38921",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-04",
+        "value": 41000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319727",
+    "permits": [
+      {
+        "permitId": "96110",
+        "permitNumber": "BLDR-2025-0487",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 421682,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "50803",
+    "permits": [
+      {
+        "permitId": "95887",
+        "permitNumber": "BLDMISC-2025-00955",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320159",
+    "permits": [
+      {
+        "permitId": "96103",
+        "permitNumber": "DPW-2025-0494",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96117",
+        "permitNumber": "BLDR-2025-0488",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 291697,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319549",
+    "permits": [
+      {
+        "permitId": "95892",
+        "permitNumber": "BLDRC-2025-00444",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 320314,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "315122",
+    "permits": [
+      {
+        "permitId": "96106",
+        "permitNumber": "BLDR-2025-0478",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 251787,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96113",
+        "permitNumber": "DPW-2025-0531",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "51306",
+    "permits": [
+      {
+        "permitId": "96334",
+        "permitNumber": "38855",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 124000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "48396",
+    "permits": [
+      {
+        "permitId": "96332",
+        "permitNumber": "38775",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 63000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320161",
+    "permits": [
+      {
+        "permitId": "96151",
+        "permitNumber": "DPW-2025-0548",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96152",
+        "permitNumber": "BLDR-2025-0500",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 269694,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "315121",
+    "permits": [
+      {
+        "permitId": "96112",
+        "permitNumber": "DPW-2025-0529",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96105",
+        "permitNumber": "BLDR-2025-0477",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 250150,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "318779",
+    "permits": [
+      {
+        "permitId": "96104",
+        "permitNumber": "MECC-2025-0312",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 50000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "67263",
+    "permits": [
+      {
+        "permitId": "96111",
+        "permitNumber": "PLBR-2025-0467",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 2800,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "24679",
+    "permits": [
+      {
+        "permitId": "96108",
+        "permitNumber": "MECR-2025-0525",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 2924,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "272704",
+    "permits": [
+      {
+        "permitId": "96109",
+        "permitNumber": "BLDR-2025-0522",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 7900,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "274149",
+    "permits": [
+      {
+        "permitId": "95889",
+        "permitNumber": "BLDMISC-2025-00957",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 27609,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "305772",
+    "permits": [
+      {
+        "permitId": "96115",
+        "permitNumber": "MECC-2025-0543",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 70000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320095",
+    "permits": [
+      {
+        "permitId": "96127",
+        "permitNumber": "DPW-2025-0550",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      },
+      {
+        "permitId": "96128",
+        "permitNumber": "BLDR-2025-0258",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 544029,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "39387",
+    "permits": [
+      {
+        "permitId": "96118",
+        "permitNumber": "BLDR-2025-0537",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 9000,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "319744",
+    "permits": [
+      {
+        "permitId": "96131",
+        "permitNumber": "DPW-2025-0549",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "38886",
+    "permits": [
+      {
+        "permitId": "96119",
+        "permitNumber": "BLDR-2025-0045",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 7920,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "38157",
+    "permits": [
+      {
+        "permitId": "96150",
+        "permitNumber": "BLDR-2025-0562",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 19400,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "317904",
+    "permits": [
+      {
+        "permitId": "96129",
+        "permitNumber": "DPW-2025-0559",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 0,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "20406",
+    "permits": [
+      {
+        "permitId": "96126",
+        "permitNumber": "BLDR-2025-0479",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 35217,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "320641",
+    "permits": [
+      {
+        "permitId": "96521",
+        "permitNumber": "25-02-27-002",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 75,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "310318",
+    "permits": [
+      {
+        "permitId": "95890",
+        "permitNumber": "BLDRC-2025-00397",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 155640,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  },
+  {
+    "propertyId": "17140",
+    "permits": [
+      {
+        "permitId": "96107",
+        "permitNumber": "MECC-2025-0519",
+        "type": null,
+        "description": null,
+        "issueDate": "2025-03-03",
+        "value": 4450,
+        "status": "Active",
+        "comments": null
+      }
+    ]
+  }
+]
